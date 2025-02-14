@@ -1,81 +1,81 @@
   /* media.css */
 .media-page {
   max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
+  margin   : 0 auto;
+  padding  : 20px;
 }
 .media-filters {
   margin-bottom: 20px;
-  display: flex;
-  flex-wrap: wrap;
+  display      : flex;
+  flex-wrap    : wrap;
 }
 .category-item {
-  cursor: pointer;
-  margin-right: 10px;
-  padding: 5px 10px;
-  border-radius: 5px;
+  cursor          : pointer;
+  margin-right    : 10px;
+  padding         : 5px 10px;
+  border-radius   : 5px;
   background-color: #f3f4f6;
-  color: #334155;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  margin-bottom: 0.5rem;
+  color           : #334155;
+  font-size       : 0.875rem;
+  line-height     : 1.25rem;
+  margin-bottom   : 0.5rem;
 }
 .category-item:hover {
   background-color: #e2e8f0;
 }
 .category-item.active {
   background-color: #4b5563;
-  color: #f3f4f6;
+  color           : #f3f4f6;
 }
 .media-grid {
-  display: grid;
+  display              : grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 10px;
+  gap                  : 10px;
 }
 .media-card {
-  position: relative;
-  border-radius: 5px;
-  overflow: hidden;
-  transition: transform 0.5s ease, box-shadow 0.5s ease;
-  background-color: rgba(255, 255, 255, 0.2); /* 半透明背景 */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 轻微阴影 */
+  position        : relative;
+  border-radius   : 5px;
+  overflow        : hidden;
+  transition      : transform 0.5s ease, box-shadow 0.5s ease;
+  background-color: rgba(255, 255, 255, 0.2);                   /* 半透明背景 */
+  box-shadow      : 0 4px 10px rgba(0, 0, 0, 0.1);              /* 轻微阴影 */
 }
 .media-card:hover {
-  transform: scale(1.05) translateY(-8px); /* 悬浮时放大并上移 */
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* 增强悬浮时的阴影效果 */
+  transform : scale(1.05) translateY(-8px);   /* 悬浮时放大并上移 */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);  /* 增强悬浮时的阴影效果 */
 }
-/* 媒体封面 */
+  /* 媒体封面 */
 .media-cover {
-  position: relative;
-  overflow: hidden;
+  position    : relative;
+  overflow    : hidden;
   aspect-ratio: 2 / 3;
-  transition: filter 0.5s ease; /* 过渡效果应用于模糊和亮度 */
+  transition  : filter 0.5s ease;  /* 过渡效果应用于模糊和亮度 */
 }
 .media-cover img {
-  width: 100%;
-  height: 100%;
+  width     : 100%;
+  height    : 100%;
   object-fit: cover;
-  transition: filter 0.5s ease; /* 添加图片模糊和亮度过渡 */
+  transition: filter 0.5s ease;  /* 添加图片模糊和亮度过渡 */
 }
 .media-card:hover .media-cover img {
-  filter: blur(5px) brightness(75%); /* 仅对封面图片应用模糊和亮度降低 */
+  filter: blur(5px) brightness(75%);  /* 仅对封面图片应用模糊和亮度降低 */
 }
 .media-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  position        : absolute;
+  top             : 0;
+  left            : 0;
+  right           : 0;
+  bottom          : 0;
   background-color: rgba(0, 0, 0, 0.7);
-  color: #fff;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  text-align: left;
-  padding: 10px;
+  color           : #fff;
+  opacity         : 0;
+  transition      : opacity 0.3s ease;
+  display         : flex;
+  flex-direction  : column;
+  justify-content : center;
+  align-items     : flex-start;
+  text-align      : left;
+  padding         : 10px;
 }
 .media-card:hover .media-overlay {
   opacity: 1;
@@ -84,69 +84,69 @@
   width: 100%;
 }
 .media-localized-title h2 {
-  font-size: 1.25rem;
+  font-size  : 1.25rem;
   font-weight: 500;
-  margin: 0;
+  margin     : 0;
 }
 .media-localized-title a {
   color: #f3f4f6;
 }
 .media-localized-title a:hover {
   text-decoration: underline;
-  color: #ff9800;
+  color          : #ff9800;
 }
 .media-orig-title {
   font-size: 0.875rem;
-  color: #f3f4f6;
+  color    : #f3f4f6;
 }
 .stars {
   position: relative;
-  display: inline-block;
-  width: 80px; /* 星星的总宽度 */
-  height: 16px; /* 星星的高度 */
+  display : inline-block;
+  width   : 80px;          /* 星星的总宽度 */
+  height  : 16px;          /* 星星的高度 */
 }
 .star-bg, .star-fill {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  background-size: 16px 16px; /* 星星的大小 */
+  position         : absolute;
+  top              : 0;
+  left             : 0;
+  height           : 100%;
+  background-size  : 16px 16px;  /* 星星的大小 */
   background-repeat: repeat-x;
 }
 .star-bg {
-  width: 100%;
+  width           : 100%;
   background-image: url(data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiPjxwYXRoIGQ9Ik05MDguMSAzNTMuMWwtMjUzLjktMzYuOUw1NDAuNyA4Ni4xYy0zLjEtNi4zLTguMi0xMS40LTE0LjUtMTQuNS0xNS44LTcuOC0zNS0xLjMtNDIuOSAxNC41TDM2OS44IDMxNi4ybC0yNTMuOSAzNi45Yy03IDEtMTMuNCA0LjMtMTguMyA5LjMtMTIuMyAxMi43LTEyLjEgMzIuOS42IDQ1LjNsMTgzLjcgMTc5LjEtNDMuNCAyNTIuOWMtMS4yIDYuOS0uMSAxNC4xIDMuMiAyMC4zIDguMiAxNS42IDI3LjYgMjEuNyA0My4yIDEzLjRMNTEyIDc1NGwyMjcuMSAxMTkuNGM2LjIgMy4zIDEzLjQgNC40IDIwLjMgMy4yIDE3LjQtMyAyOS4xLTE5LjUgMjYuMS0zNi45bC00My40LTI1Mi45IDE4My43LTE3OS4xYzUtNC45IDguMy0xMS4zIDkuMy0xOC4zIDIuNy0xNy41LTkuNS0zMy43LTI3LTM2LjN6TTY2NC44IDU2MS42bDM2LjEgMjEwLjNMNTEyIDY3Mi43IDMyMy4xIDc3MmwzNi4xLTIxMC4zLTE1Mi44LTE0OUw0MTcuNiAzODIgNTEyIDE5MC43IDYwNi40IDM4MmwyMTEuMiAzMC43LTE1Mi44IDE0OC45eiIgZmlsbD0iI2Y5OWIwMSIvPjwvc3ZnPg==);
 }
 .star-fill {
-  width: 100%;
+  width           : 100%;
   background-image: url(data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiPjxwYXRoIGQ9Ik05MDguMSAzNTMuMWwtMjUzLjktMzYuOUw1NDAuNyA4Ni4xYy0zLjEtNi4zLTguMi0xMS40LTE0LjUtMTQuNS0xNS44LTcuOC0zNS0xLjMtNDIuOSAxNC41TDM2OS44IDMxNi4ybC0yNTMuOSAzNi45Yy03IDEtMTMuNCA0LjMtMTguMyA5LjMtMTIuMyAxMi43LTEyLjEgMzIuOS42IDQ1LjNsMTgzLjcgMTc5LjEtNDMuNCAyNTIuOWMtMS4yIDYuOS0uMSAxNC4xIDMuMiAyMC4zIDguMiAxNS42IDI3LjYgMjEuNyA0My4yIDEzLjRMNTEyIDc1NGwyMjcuMSAxMTkuNGM2LjIgMy4zIDEzLjQgNC40IDIwLjMgMy4yIDE3LjQtMyAyOS4xLTE5LjUgMjYuMS0zNi45bC00My40LTI1Mi45IDE4My43LTE3OS4xYzUtNC45IDguMy0xMS4zIDkuMy0xOC4zIDIuNy0xNy41LTkuNS0zMy43LTI3LTM2LjN6IiBmaWxsPSIjZjk5YjAxIi8+PC9zdmc+);
 }
 .media-rating-info span {
-  font-size: 0.875rem;
-  margin-top: 2px;
+  font-size       : 0.875rem;
+  margin-top      : 2px;
   background-color: #334155;
-  border-radius: 3px;
-  padding: 3px;
+  border-radius   : 3px;
+  padding         : 3px;
 }
 .media-brief p {
-  font-size: 14px;
-  margin: 10px 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
+  font-size         : 14px;
+  margin            : 10px 0;
+  overflow          : hidden;
+  text-overflow     : ellipsis;
+  display           : -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
 }
 .media-type {
-  position: absolute;
-  top: 0;
-  right: 0;
+  position        : absolute;
+  top             : 0;
+  right           : 0;
   background-color: #ff9800;
-  color: #fff;
-  padding: 5px 10px;
-  border-radius: 0 0 0 5px;
-  opacity: 0;
-  transition: opacity 0.3s ease;
+  color           : #fff;
+  padding         : 5px 10px;
+  border-radius   : 0 0 0 5px;
+  opacity         : 0;
+  transition      : opacity 0.3s ease;
 }
 .media-card:hover .media-type {
   opacity: 1;
@@ -157,40 +157,40 @@
 @media (max-width: 600px) {
   .media-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 8px; /* 减小卡片间距 */
+    gap                  : 8px;             /* 减小卡片间距 */
   }
   .media-card:hover {
-    transform: scale(1.03) translateY(-4px); /* 减小悬浮效果 */
+    transform: scale(1.03) translateY(-4px);  /* 减小悬浮效果 */
   }
   .media-overlay {
-    padding: 6px; /* 减小内边距 */
+    padding: 6px;  /* 减小内边距 */
   }
   .media-localized-title h2 {
-    font-size: 1rem; /* 减小标题字体大小 */
+    font-size: 1rem;  /* 减小标题字体大小 */
   }
   .media-orig-title {
-    font-size: 0.75rem; /* 减小原标题字体大小 */
+    font-size: 0.75rem;  /* 减小原标题字体大小 */
   }
   .star {
-    font-size: 1rem; /* 减小星星大小 */
+    font-size: 1rem;  /* 减小星星大小 */
   }
   .media-rating-info span {
-    font-size: 0.75rem; /* 减小评分信息字体大小 */
-    padding: 2px; /* 减小评分信息内边距 */
+    font-size: 0.75rem;  /* 减小评分信息字体大小 */
+    padding  : 2px;      /* 减小评分信息内边距 */
   }
   .media-brief p {
-    font-size: 12px; /* 减小简介字体大小 */
-    margin: 6px 0; /* 减小上下间距 */
-    -webkit-line-clamp: 2; /* 减少显示行数 */
+    font-size         : 12px;   /* 减小简介字体大小 */
+    margin            : 6px 0;  /* 减小上下间距 */
+    -webkit-line-clamp: 2;      /* 减少显示行数 */
   }
   .media-type {
-    padding: 3px 6px; /* 减小类型标签内边距 */
-    font-size: 0.75rem; /* 减小类型标签字体大小 */
+    padding  : 3px 6px;  /* 减小类型标签内边距 */
+    font-size: 0.75rem;  /* 减小类型标签字体大小 */
   }
   .category-item {
-    padding: 3px 6px; /* 减小分类按钮内边距 */
-    font-size: 0.75rem; /* 减小分类按钮字体大小 */
-    margin-right: 6px; /* 减小分类按钮右侧间距 */
-    margin-bottom: 0.3rem; /* 减小分类按钮下方间距 */
+    padding      : 3px 6px;  /* 减小分类按钮内边距 */
+    font-size    : 0.75rem;  /* 减小分类按钮字体大小 */
+    margin-right : 6px;      /* 减小分类按钮右侧间距 */
+    margin-bottom: 0.3rem;   /* 减小分类按钮下方间距 */
   }
 }
