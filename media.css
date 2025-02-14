@@ -1,9 +1,179 @@
-  /* media.css */
+/* media.css */
+body {
+  position: relative;
+  margin  : 0;
+  padding : 0;
+}
+
+body::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('img/MyImgs/img5.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: blur(1px);
+  -webkit-filter: blur(10px);
+  z-index: -1; /* 确保背景层在所有内容下方 */
+}
+
+.content {
+  position: relative;
+  min-height: 200vh; /* 使页面足够长以展示滚动效果 */
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+}
+
+
+  /* 背景壁纸样式 */
 .media-page {
   max-width: 1200px;
   margin   : 0 auto;
   padding  : 20px;
 }
+
+
+/* 返回主页按钮 */
+.back-home-btn {
+  position: fixed;
+  bottom  : 20px;
+  right   : 20px;
+  z-index : 1000;   /* 确保按钮在页面的最上层 */
+}
+
+.back-home-btn a {
+  display         : flex;
+  justify-content : center;
+  align-items     : center;
+  width           : 50px;
+  height          : 50px;
+  background-color: #F7E579;                       /* 设置按钮背景色 */
+  border-radius   : 50%;
+  box-shadow      : 0 4px 6px rgba(0, 0, 0, 0.1);  /* 添加阴影效果 */
+  transition      : background-color 0.3s ease;
+  position        : relative;
+}
+
+  /* 鼠标悬停时按钮背景色变化 */
+.back-home-btn a:hover {
+  background-color: #F1D50F;
+}
+
+  /* 设置SVG图标大小 */
+.back-home-btn svg {
+  width: 30px;
+  height: 30px;
+}
+
+  /* 悬浮时显示的提示文本 */
+.tooltip-text {
+  visibility      : hidden;    /* 初始隐藏文本 */
+  position        : absolute;
+  bottom          : 40px;      /* 向下偏移，可以根据需要调整 */
+  background-color: #333;
+  color           : #fff;
+  text-align      : center;
+  border-radius   : 5px;
+  padding         : 5px;
+  font-size       : 12px;
+  width           : 50px;
+}
+
+
+.back-home-btn a:hover .tooltip-text {
+  visibility: visible; /* 鼠标悬停时显示文本 */
+}
+
+  /* 返回顶部按钮 */
+.back-top-btn {
+  position: fixed;
+  bottom: 100px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.back-top-btn a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  background-color: #459f4074; /* 背景色 */
+  border-radius: 50%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  position: relative;
+}
+
+.back-top-btn a:hover {
+  background-color: #239638a5;
+}
+
+.back-top-btn svg {
+  width: 30px;
+  height: 30px;
+}
+
+  /* 悬浮时显示的提示文本 */
+.tooltip-text {
+  visibility      : hidden;    /* 初始隐藏文本 */
+  position        : absolute;
+  left            : -110px;    /* 向左偏移，确保文字显示在图标左侧 */
+  bottom          : 60px;      /* 控制文本的垂直位置，可以根据需要调整 */
+  background-color: #333;
+  color           : #fff;
+  text-align      : center;
+  border-radius   : 5px;
+  padding         : 5px;
+  font-size       : 12px;
+  width: 100px;
+}
+
+
+.back-top-btn a:hover .tooltip-text {
+  visibility: visible;
+}
+
+/* 时间轴样式 */
+.timeline {
+    margin-top: 40px;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.timeline h2 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.timeline ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.timeline-item {
+    margin-bottom: 15px;
+}
+
+.timeline-item .timeline-date {
+    font-size: 1rem;
+    color: #8c2c2c;
+}
+
+.timeline-item .timeline-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #823737;
+}
+
+
 .media-filters {
   margin-bottom: 20px;
   display      : flex;
@@ -30,11 +200,11 @@
 .media-grid {
   display              : grid;
   grid-template-columns: repeat(5, 1fr);
-  gap                  : 10px;
+  gap                  : 30px;
 }
 .media-card {
   position        : relative;
-  border-radius   : 5px;
+  border-radius   : 20px;
   overflow        : hidden;
   transition      : transform 0.5s ease, box-shadow 0.5s ease;
   background-color: rgba(255, 255, 255, 0.2);                   /* 半透明背景 */
@@ -44,7 +214,7 @@
   transform : scale(1.05) translateY(-8px);   /* 悬浮时放大并上移 */
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);  /* 增强悬浮时的阴影效果 */
 }
-  /* 媒体封面 */
+    /* 媒体封面 */
 .media-cover {
   position    : relative;
   overflow    : hidden;
@@ -114,12 +284,13 @@
   background-repeat: repeat-x;
 }
 .star-bg {
-  width           : 100%;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiPjxwYXRoIGQ9Ik05MDguMSAzNTMuMWwtMjUzLjktMzYuOUw1NDAuNyA4Ni4xYy0zLjEtNi4zLTguMi0xMS40LTE0LjUtMTQuNS0xNS44LTcuOC0zNS0xLjMtNDIuOSAxNC41TDM2OS44IDMxNi4ybC0yNTMuOSAzNi45Yy03IDEtMTMuNCA0LjMtMTguMyA5LjMtMTIuMyAxMi43LTEyLjEgMzIuOS42IDQ1LjNsMTgzLjcgMTc5LjEtNDMuNCAyNTIuOWMtMS4yIDYuOS0uMSAxNC4xIDMuMiAyMC4zIDguMiAxNS42IDI3LjYgMjEuNyA0My4yIDEzLjRMNTEyIDc1NGwyMjcuMSAxMTkuNGM2LjIgMy4zIDEzLjQgNC40IDIwLjMgMy4yIDE3LjQtMyAyOS4xLTE5LjUgMjYuMS0zNi45bC00My40LTI1Mi45IDE4My43LTE3OS4xYzUtNC45IDguMy0xMS4zIDkuMy0xOC4zIDIuNy0xNy41LTkuNS0zMy43LTI3LTM2LjN6TTY2NC44IDU2MS42bDM2LjEgMjEwLjNMNTEyIDY3Mi43IDMyMy4xIDc3MmwzNi4xLTIxMC4zLTE1Mi44LTE0OUw0MTcuNiAzODIgNTEyIDE5MC43IDYwNi40IDM4MmwyMTEuMiAzMC43LTE1Mi44IDE0OC45eiIgZmlsbD0iI2Y5OWIwMSIvPjwvc3ZnPg==);
+  width           : 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     /* 宽度 */
+  background-image: url(data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiPjxwYXRoIGQ9Ik05MDguMSAzNTMuMWwtMjUzLjktMzYuOUw1NDAuNyA4Ni4xYy0zLjEtNi4zLTguMi0xMS40LTE0LjUtMTQuNS0xNS44LTcuOC0zNS0xLjMtNDIuOSAxNC41TDM2OS44IDMxNi4ybC0yNTMuOSAzNi45Yy03IDEtMTMuNCA0LjMtMTguMyA5LjMtMTIuMyAxMi43LTEyLjEgMzIuOS42IDQ1LjNsMTgzLjcgMTc5LjEtNDMuNCAyNTIuOWMtMS4yIDYuOS0uMSAxNC4xIDMuMiAyMC4zIDguMiAxNS42IDI3LjYgMjEuNyA0My4yIDEzLjRMNTEyIDc1NGwyMjcuMSAxMTkuNGM2LjIgMy4zIDEzLjQgNC40IDIwLjMgMy4yIDE3LjQtMyAyOS4xLTE5LjUgMjYuMS0zNi45bC00My40LTI1Mi45IDE4My43LTE3OS4xYzUtNC45IDguMy0xMS4zIDkuMy0xOC4zIDIuNy0xNy41LTkuNS0zMy43LTI3LTM2LjN6TTY2NC44IDU2MS42bDM2LjEgMjEwLjNMNTEyIDY3Mi43IDMyMy4xIDc3MmwzNi4xLTIxMC4zLTE1Mi44LTE0OUw0MTcuNiAzODIgNTEyIDE5MC43IDYwNi40IDM4MmwyMTEuMiAzMC43LTE1Mi44IDE0OC45eiIgZmlsbD0iI2Y5OWIwMSIvPjwvc3ZnPg==);  /* 背景图片 */
 }
+/* 星级填充图片样式 */
 .star-fill {
-  width           : 100%;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiPjxwYXRoIGQ9Ik05MDguMSAzNTMuMWwtMjUzLjktMzYuOUw1NDAuNyA4Ni4xYy0zLjEtNi4zLTguMi0xMS40LTE0LjUtMTQuNS0xNS44LTcuOC0zNS0xLjMtNDIuOSAxNC41TDM2OS44IDMxNi4ybC0yNTMuOSAzNi45Yy03IDEtMTMuNCA0LjMtMTguMyA5LjMtMTIuMyAxMi43LTEyLjEgMzIuOS42IDQ1LjNsMTgzLjcgMTc5LjEtNDMuNCAyNTIuOWMtMS4yIDYuOS0uMSAxNC4xIDMuMiAyMC4zIDguMiAxNS42IDI3LjYgMjEuNyA0My4yIDEzLjRMNTEyIDc1NGwyMjcuMSAxMTkuNGM2LjIgMy4zIDEzLjQgNC40IDIwLjMgMy4yIDE3LjQtMyAyOS4xLTE5LjUgMjYuMS0zNi45bC00My40LTI1Mi45IDE4My43LTE3OS4xYzUtNC45IDguMy0xMS4zIDkuMy0xOC4zIDIuNy0xNy41LTkuNS0zMy43LTI3LTM2LjN6IiBmaWxsPSIjZjk5YjAxIi8+PC9zdmc+);
+  width: 100%;  /* 宽度 */
+  background-image: url(data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiPjxwYXRoIGQ9Ik05MDguMSAzNTMuMWwtMjUzLjktMzYuOUw1NDAuNyA4Ni4xYy0zLjEtNi4zLTguMi0xMS40LTE0LjUtMTQuNS0xNS44LTcuOC0zNS0xLjMtNDIuOSAxNC41TDM2OS44IDMxNi4ybC0yNTMuOSAzNi45Yy03IDEtMTMuNCA0LjMtMTguMyA5LjMtMTIuMyAxMi43LTEyLjEgMzIuOS42IDQ1LjNsMTgzLjcgMTc5LjEtNDMuNCAyNTIuOWMtMS4yIDYuOS0uMSAxNC4xIDMuMiAyMC4zIDguMiAxNS42IDI3LjYgMjEuNyA0My4yIDEzLjRMNTEyIDc1NGwyMjcuMSAxMTkuNGM2LjIgMy4zIDEzLjQgNC40IDIwLjMgMy4yIDE3LjQtMyAyOS4xLTE5LjUgMjYuMS0zNi45bC00My40LTI1Mi45IDE4My43LTE3OS4xYzUtNC45IDguMy0xMS4zIDkuMy0xOC4zIDIuNy0xNy41LTkuNS0zMy43LTI3LTM2LjN6IiBmaWxsPSIjZjk5YjAxIi8+PC9zdmc+);  /* 背景图片 */
 }
 .media-rating-info span {
   font-size       : 0.875rem;
@@ -128,15 +299,27 @@
   border-radius   : 3px;
   padding         : 3px;
 }
+  /* 滑动显示简介 */
+.media-brief {
+  position: relative;
+  overflow: hidden;
+}
+
 .media-brief p {
   font-size         : 14px;
   margin            : 10px 0;
-  overflow          : hidden;
-  text-overflow     : ellipsis;
-  display           : -webkit-box;
-  -webkit-line-clamp: 3;
+  transition        : max-height 0.5s ease-out;
+  max-height        : 50px;                      /* 初始高度限制为 50px */
+  -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
+  overflow          : hidden;
 }
+
+.media-card:hover .media-brief p {
+  max-height: 180px;  /* 悬浮时展开为 180px */
+  overflow: auto;    /* 添加滚动条 */
+}
+
 .media-type {
   position        : absolute;
   top             : 0;
@@ -165,6 +348,7 @@
   .media-overlay {
     padding: 6px;  /* 减小内边距 */
   }
+  
   .media-localized-title h2 {
     font-size: 1rem;  /* 减小标题字体大小 */
   }
