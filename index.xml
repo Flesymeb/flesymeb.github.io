@@ -1,40 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>. on Blog</title><link>https://flesymeb.github.io/</link><description>Recent content in . on Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Fri, 17 Jan 2025 19:34:37 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Tongji-DORM-WIFI自动登录</title><link>https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/</link><pubDate>Fri, 17 Jan 2025 19:34:37 +0800</pubDate><guid>https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/</guid><description>&lt;h2 class="relative group">前言
-&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;blockquote>
-&lt;p>一如济网&lt;/p>
-&lt;/blockquote>
-&lt;p>同济大学无线网络提供三种接入服务(SSID):&lt;code>TJ-WIFI&lt;/code>、&lt;code>TJ-GUEST-WIFI&lt;/code>、&lt;code>eduroam&lt;/code>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/featured.png"/></item><item><title>2024 软件工程复习</title><link>https://flesymeb.github.io/docs/softwareengineering/</link><pubDate>Sun, 29 Dec 2024 14:04:13 +0800</pubDate><guid>https://flesymeb.github.io/docs/softwareengineering/</guid><description>&lt;h1 class="relative group">2024 软件工程复习
-&lt;div id="2024-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#2024-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h1>
-&lt;blockquote>
-&lt;p>Tongji University. 2024/12/21 &lt;br>
-Hyoung Yan&lt;/p>
-&lt;/blockquote>
-&lt;hr>
-&lt;h2 class="relative group">本文框架
-&lt;div id="%E6%9C%AC%E6%96%87%E6%A1%86%E6%9E%B6" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E6%9C%AC%E6%96%87%E6%A1%86%E6%9E%B6" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>
-&lt;figure>
-&lt;img class="my-0 rounded-md" loading="lazy" src="2024%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png" alt="本文框架" />
-&lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/softwareengineering/featured.jpeg"/></item><item><title>2024 操作系统期末复习</title><link>https://flesymeb.github.io/docs/os/</link><pubDate>Sun, 29 Dec 2024 14:03:36 +0800</pubDate><guid>https://flesymeb.github.io/docs/os/</guid><description>&lt;h1 class="relative group">2024 操作系统期末复习
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>. on Blog</title><link>https://flesymeb.github.io/</link><description>Recent content in . on Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 01 01</title><link>https://flesymeb.github.io/posts/daily/2025-01-01/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-01-01/</guid><description>&lt;p>&lt;strong>To：Myself&lt;/strong>&lt;/p>
+&lt;p>新年快乐！&lt;/p>
+&lt;p>这是一封迟来的信，来自春节后返校的你。在新的一年里，祝你万事顺意，继续做一个善良乐观的男孩，不要质疑自己，质疑未来。过去的一年是甜酸苦辣的一年，用物理学知识来解释：“生活中，有一些事情是不可逆的，就像熵增原理，事物总是像无序的方向发展，一切都是会变的。如果你想要维持生活的秩序，那就要付出一些去做功。”不要留恋过去，也不要畏惧未来，20年里你经历了很多，成长了很多，现在分割线到了，从今年起，你就是20+了，不要再像小孩一样幼稚经不起拷打了，未来的考验会更多，但是相信你会越来越好的！&lt;/p></description></item><item><title>2024 操作系统期末复习</title><link>https://flesymeb.github.io/docs/os/</link><pubDate>Sun, 29 Dec 2024 14:03:36 +0800</pubDate><guid>https://flesymeb.github.io/docs/os/</guid><description>&lt;h1 class="relative group">2024 操作系统期末复习
 &lt;div id="2024-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -84,7 +50,32 @@ style="text-decoration-line: none !important;" href="#%E6%9C%AC%E6%96%87%E6%A1%8
 &lt;figure>
 &lt;img class="my-0 rounded-md" loading="lazy" src="2024%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png" alt="本文框架" />
 &lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/systemstructure/featured.png"/></item><item><title>2024 12 04</title><link>https://flesymeb.github.io/posts/daily/2024-12-04/</link><pubDate>Sat, 21 Dec 2024 19:37:34 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-12-04/</guid><description>&lt;h2 class="relative group">ONE
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/systemstructure/featured.png"/></item><item><title>2024 软件工程复习</title><link>https://flesymeb.github.io/docs/softwareengineering/</link><pubDate>Sat, 21 Dec 2024 01:53:50 +0800</pubDate><guid>https://flesymeb.github.io/docs/softwareengineering/</guid><description>&lt;h1 class="relative group">2024 软件工程复习
+&lt;div id="2024-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2024-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;blockquote>
+&lt;p>Tongji University. 2024/12/21 &lt;br>
+Hyoung Yan&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 class="relative group">本文框架
+&lt;div id="%E6%9C%AC%E6%96%87%E6%A1%86%E6%9E%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%9C%AC%E6%96%87%E6%A1%86%E6%9E%B6" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="2024%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png" alt="本文框架" />
+&lt;/figure>
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/softwareengineering/featured.jpeg"/></item><item><title>2024 12 04</title><link>https://flesymeb.github.io/posts/daily/2024-12-04/</link><pubDate>Wed, 04 Dec 2024 00:00:00 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-12-04/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -104,7 +95,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>读王老师书有感，摘抄一段：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-12-04/featured.jpg"/></item><item><title>2024 11 07</title><link>https://flesymeb.github.io/posts/daily/2024-11-07/</link><pubDate>Sat, 09 Nov 2024 01:22:07 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-11-07/</guid><description>&lt;h2 class="relative group">ONE
+&lt;p>读王老师书有感，摘抄一段：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-12-04/featured.jpg"/></item><item><title>2024 11 07</title><link>https://flesymeb.github.io/posts/daily/2024-11-07/</link><pubDate>Sun, 17 Nov 2024 01:42:54 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-11-07/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -124,7 +115,18 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>在上海第二次看到了星星，上一次在见到星星还是大一国庆去崇明岛玩。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-11-07/featured.jpg"/></item><item><title>Follow,下一代的聚合信息浏览器</title><link>https://flesymeb.github.io/docs/follow_the_rss_reader/</link><pubDate>Sat, 26 Oct 2024 14:57:25 +0800</pubDate><guid>https://flesymeb.github.io/docs/follow_the_rss_reader/</guid><description>&lt;h2 class="relative group">介绍
+&lt;p>在上海第二次看到了星星，上一次在见到星星还是大一国庆去崇明岛玩。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-11-07/featured.jpg"/></item><item><title>Tongji-DORM-WIFI自动登录</title><link>https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/</link><pubDate>Wed, 30 Oct 2024 01:52:50 +0800</pubDate><guid>https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/</guid><description>&lt;h2 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;blockquote>
+&lt;p>一如济网&lt;/p>
+&lt;/blockquote>
+&lt;p>同济大学无线网络提供三种接入服务(SSID):&lt;code>TJ-WIFI&lt;/code>、&lt;code>TJ-GUEST-WIFI&lt;/code>、&lt;code>eduroam&lt;/code>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/featured.png"/></item><item><title>Follow,下一代的聚合信息浏览器</title><link>https://flesymeb.github.io/docs/follow_the_rss_reader/</link><pubDate>Sat, 26 Oct 2024 14:57:25 +0800</pubDate><guid>https://flesymeb.github.io/docs/follow_the_rss_reader/</guid><description>&lt;h2 class="relative group">介绍
 &lt;div id="%E4%BB%8B%E7%BB%8D" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -319,6 +321,6 @@ style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#
 &lt;p>二零二四年八月廿五日，星期五，晴&lt;/p>
 &lt;/div>
 &lt;hr>
-&lt;p>闲来无事，基于 Github+Hugo+Blowfish 搭建了个人博客&lt;/p>
-&lt;p>希望在这里记录一些生活、学习点滴&lt;/p>
-&lt;p>这个世界还是会好起来的&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-9-27/featured.webp"/></item><item><title>书影音记录</title><link>https://flesymeb.github.io/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://flesymeb.github.io/media/</guid><description>&lt;p>记录日常阅读、观影、音乐&lt;/p></description></item></channel></rss>
+&lt;p>世界赠与我白纸一张，在人生最好的年华里当然要留下一些痕迹。&lt;/p>
+&lt;p>本个人博客基于 Github+Hugo+Blowfish 搭建&lt;/p>
+&lt;p>希望在这里记录一些学习与生活点滴&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-9-27/featured.webp"/></item><item><title>书影音记录</title><link>https://flesymeb.github.io/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://flesymeb.github.io/media/</guid><description>&lt;p>记录日常阅读、观影、音乐&lt;/p></description></item></channel></rss>
