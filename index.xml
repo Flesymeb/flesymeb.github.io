@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>. on Blog</title><link>https://flesymeb.github.io/</link><description>Recent content in . on Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Wed, 19 Feb 2025 19:14:32 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 LLaMAFactory 实现大模型微调</title><link>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</link><pubDate>Wed, 19 Feb 2025 19:14:32 +0800</pubDate><guid>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>. on Blog</title><link>https://flesymeb.github.io/</link><description>Recent content in . on Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Sat, 01 Mar 2025 00:32:55 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 03 01</title><link>https://flesymeb.github.io/posts/daily/2025-03-01/</link><pubDate>Sat, 01 Mar 2025 00:32:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-01/</guid><description>&lt;h2 class="relative group">ONE
+&lt;div id="one" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;div style = "text-align: center;">
+&lt;p>二零二五年三月一日，晴&lt;/p>
+&lt;p>三月来了，该听『米店』了&lt;/p>
+&lt;center>
+&lt;iframe frameborder = "no" border = "0" marginwidth = "0" marginheight = "0" width = 400 height = 86 src = "//music.163.com/outchain/player?type=2&amp;id=26494698&amp;auto=1&amp;height=66">&lt;/iframe>
+&lt;/center>
+&lt;/div>
+&lt;h2 class="relative group">TWO
+&lt;div id="two" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;p style = "text-align:center">三月的烟雨 飘摇的南方&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-03-01/featured.jpg"/></item><item><title>致自己的20岁</title><link>https://flesymeb.github.io/posts/daily/2025-02-25/</link><pubDate>Tue, 25 Feb 2025 00:36:48 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-02-25/</guid><description>&lt;h2 class="relative group">ONE
+&lt;div id="one" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;div style = "text-align: center;">
+&lt;p>二零二五年正月廿八日，晴&lt;/p>
+&lt;p>致自己的20岁&lt;/p>
+&lt;/div>
+&lt;h2 class="relative group">TWO
+&lt;div id="two" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;text>Travelling Light&lt;/text>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-02-25/featured.jpg"/></item><item><title>使用 LLaMAFactory 实现大模型微调</title><link>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</link><pubDate>Wed, 19 Feb 2025 19:14:32 +0800</pubDate><guid>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</guid><description>&lt;blockquote>
 &lt;p>本文主要介绍如何使用 LLaMAFactory 实现大模型微调，基于 Qwen2.5-7B-Instruct 模型进行 LoRA 微调&lt;/p>
 &lt;/blockquote>
 &lt;h1 class="relative group">基础概念
@@ -354,6 +397,6 @@ style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#
 &lt;p>二零二四年八月廿五日，星期五，晴&lt;/p>
 &lt;/div>
 &lt;hr>
-&lt;p>世界赠与我白纸一张，在人生最好的年华里当然要留下一些痕迹。&lt;/p>
+&lt;p>世界赠予我白纸一张，当然要在人生最好的年华里留下一些痕迹。&lt;/p>
 &lt;p>本个人博客基于 Github+Hugo+Blowfish 搭建&lt;/p>
 &lt;p>希望在这里记录一些学习与生活点滴&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-9-27/featured.webp"/></item><item><title>书影音记录</title><link>https://flesymeb.github.io/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://flesymeb.github.io/media/</guid><description>&lt;p>记录日常阅读、观影、音乐&lt;/p></description></item></channel></rss>
