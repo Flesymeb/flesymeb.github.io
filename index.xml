@@ -41,7 +41,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>&lt;text>Travelling Light&lt;/text>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-02-25/featured.jpg"/></item><item><title>使用 LLaMAFactory 实现大模型微调</title><link>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</link><pubDate>Wed, 19 Feb 2025 19:14:32 +0800</pubDate><guid>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</guid><description>&lt;blockquote>
+&lt;p>&lt;text>Traveling Light&lt;/text>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-02-25/featured.jpg"/></item><item><title>使用 LLaMAFactory 实现大模型微调</title><link>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</link><pubDate>Wed, 19 Feb 2025 19:14:32 +0800</pubDate><guid>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</guid><description>&lt;blockquote>
 &lt;p>本文主要介绍如何使用 LLaMAFactory 实现大模型微调，基于 Qwen2.5-7B-Instruct 模型进行 LoRA 微调&lt;/p>
 &lt;/blockquote>
 &lt;h1 class="relative group">基础概念
