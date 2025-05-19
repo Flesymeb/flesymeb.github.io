@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>. on Blog</title><link>https://flesymeb.github.io/</link><description>Recent content in . on Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Mon, 10 Mar 2025 19:22:24 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 03 10</title><link>https://flesymeb.github.io/posts/daily/2025-03-10/</link><pubDate>Mon, 10 Mar 2025 19:22:24 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-10/</guid><description>&lt;p>一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。——Stewart Brand&lt;/p></description></item><item><title>2025 03 01</title><link>https://flesymeb.github.io/posts/daily/2025-03-01/</link><pubDate>Sat, 01 Mar 2025 00:32:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-01/</guid><description>&lt;h2 class="relative group">ONE
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>. on Blog</title><link>https://flesymeb.github.io/</link><description>Recent content in . on Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Mon, 19 May 2025 19:20:08 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>【算法】C++ STL的使用</title><link>https://flesymeb.github.io/docs/algorithm/stl/</link><pubDate>Mon, 19 May 2025 19:20:08 +0800</pubDate><guid>https://flesymeb.github.io/docs/algorithm/stl/</guid><description>&lt;p>
+&lt;figure>
+&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+srcset="
+/docs/algorithm/stl/image/index/1747656900325_hu2074340021832321260.png 330w,
+/docs/algorithm/stl/image/index/1747656900325_hu6702968954444764840.png 660w,
+/docs/algorithm/stl/image/index/1747656900325_hu17879524764861729221.png 1024w,
+/docs/algorithm/stl/image/index/1747656900325_hu16640134181028556702.png 2x"
+src="https://flesymeb.github.io/docs/algorithm/stl/image/index/1747656900325_hu6702968954444764840.png"
+alt="1747656900325"
+/>
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Algorithm 头文件
+&lt;div id="algorithm-%E5%A4%B4%E6%96%87%E4%BB%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#algorithm-%E5%A4%B4%E6%96%87%E4%BB%B6" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>C++的算法头文件中有很多实用的函数&lt;/p>
+&lt;h3 class="relative group">排序
+&lt;div id="%E6%8E%92%E5%BA%8F" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%8E%92%E5%BA%8F" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>&lt;code>sort()&lt;/code>：对容器中的元素进行排序。依次传入三个参数，要排序区间的起点，要排序区间的终点+1，比较函数。比较函数可以不填，则默认为从小到大排序。
+也可以使用&lt;code>greater&amp;lt;type&amp;gt;()&lt;/code>来实现从大到小排序，或者自定义比较函数。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/algorithm/stl/featured.jpg"/></item><item><title>2025 03 10</title><link>https://flesymeb.github.io/posts/daily/2025-03-10/</link><pubDate>Mon, 10 Mar 2025 19:22:24 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-10/</guid><description>&lt;p>一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。——Stewart Brand&lt;/p></description></item><item><title>2025 03 01</title><link>https://flesymeb.github.io/posts/daily/2025-03-01/</link><pubDate>Sat, 01 Mar 2025 00:32:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-01/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
