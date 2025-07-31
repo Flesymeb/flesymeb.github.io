@@ -2,8 +2,7 @@
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style = "text-align: center;">
@@ -17,16 +16,14 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>&lt;p style = "text-align:center">三月的烟雨 飘摇的南方&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-03-01/featured.jpg"/></item><item><title>致自己的20岁</title><link>https://flesymeb.github.io/posts/daily/2025-02-25/</link><pubDate>Tue, 25 Feb 2025 00:36:48 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-02-25/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style = "text-align: center;">
@@ -37,8 +34,7 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>&lt;text>Traveling Light&lt;/text>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-02-25/featured.jpg"/></item><item><title>2025 01 01</title><link>https://flesymeb.github.io/posts/daily/2025-01-01/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-01-01/</guid><description>&lt;p>&lt;strong>To：Myself&lt;/strong>&lt;/p>
@@ -47,8 +43,7 @@ style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style = "text-align: center;">
@@ -59,16 +54,14 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>读王老师书有感，摘抄一段：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-12-04/featured.jpg"/></item><item><title>2024 11 07</title><link>https://flesymeb.github.io/posts/daily/2024-11-07/</link><pubDate>Sun, 17 Nov 2024 01:42:54 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-11-07/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -79,35 +72,31 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在上海第二次看到了星星，上一次在见到星星还是大一国庆去崇明岛玩。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-11-07/featured.jpg"/></item><item><title>【书评】变形记</title><link>https://flesymeb.github.io/posts/books/04_%E5%8F%98%E5%BD%A2%E8%AE%B0/</link><pubDate>Sat, 26 Oct 2024 13:05:43 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/04_%E5%8F%98%E5%BD%A2%E8%AE%B0/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
-&lt;div id="one-%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95" class="anchor">&lt;/div>
+&lt;div id="one-阅读记录" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one-%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>    变形记是卡夫卡的代表作之一，本作很短，后半部分是作者的小传。读卡夫卡的《变形记》有一种被撕裂、吞噬的感觉，作者的笔触十分悲凉，让人看到人物自我救赎却又陷入毁灭的无望追寻。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/04_%E5%8F%98%E5%BD%A2%E8%AE%B0/featured.jpg"/></item><item><title>【书评】组织部来了个年轻人</title><link>https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/</link><pubDate>Sat, 19 Oct 2024 15:19:06 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
-&lt;div id="one-%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95" class="anchor">&lt;/div>
+&lt;div id="one-阅读记录" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one-%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;blockquote>
 &lt;p>三月，天空中纷洒着似雨似雪&lt;/p>
 &lt;/blockquote>
 &lt;p>情绪反扑，唯有读书可以让我静下心来，这两天也真是疯魔了，一天一本。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/featured.jpg"/></item><item><title>【书评】蛤蟆先生去看心理医生</title><link>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</link><pubDate>Thu, 17 Oct 2024 19:21:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
-&lt;div id="one-%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95" class="anchor">&lt;/div>
+&lt;div id="one-阅读记录" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one-%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;blockquote>
@@ -129,8 +118,7 @@ style="text-decoration-line: none !important;" href="#one-%E9%98%85%E8%AF%BB%E8%
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -140,16 +128,14 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>&lt;text>Love Is Over&lt;/text>&lt;/p></description></item><item><title>2024 10 3</title><link>https://flesymeb.github.io/posts/daily/2024-10-3/</link><pubDate>Thu, 03 Oct 2024 23:07:19 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-10-3/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -163,26 +149,25 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>A part of
 &lt;div id="gallery-7f1eebe14c601cd3ae9ed66895580d64" class="gallery">
-&lt;img src="pics/pic9.jpg" class="grid-w22" />
-&lt;img src="pics/pic1.jpg" class="grid-w33" />
-&lt;img src="pics/pic4.jpg" class="grid-w33" />
-&lt;img src="pics/pic5.jpg" class="grid-w33" />
-&lt;img src="pics/pic3.jpg" class="grid-w33" />
-&lt;img src="pics/pic6.jpg" class="grid-w33" />
-&lt;img src="pics/pic7.jpg" class="grid-w33" />
-&lt;img src="pics/pic8.jpg" class="grid-w33" />
-&lt;/div>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-10-3/featured.jpg"/></item><item><title>2024 09 28</title><link>https://flesymeb.github.io/posts/daily/2024-9-28/</link><pubDate>Sat, 28 Sep 2024 00:30:57 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-9-28/</guid><description>&lt;h2 class="relative group">ONE
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic9.jpg" class="grid-w22" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic1.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic4.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic5.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic3.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic6.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic7.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic8.jpg" class="grid-w33" />
+&lt;/div>
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-10-3/featured.jpg"/></item><item><title>2024 09 28</title><link>https://flesymeb.github.io/posts/daily/2024-9-28/</link><pubDate>Sat, 28 Sep 2024 00:30:57 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-9-28/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -193,8 +178,7 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;center>

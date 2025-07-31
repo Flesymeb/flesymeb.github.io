@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>计算机系统结构 on Blog</title><link>https://flesymeb.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84/</link><description>Recent content in 计算机系统结构 on Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Wed, 25 Dec 2024 14:23:00 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 计算机系统结构复习</title><link>https://flesymeb.github.io/docs/systemstructure/</link><pubDate>Wed, 25 Dec 2024 14:23:00 +0800</pubDate><guid>https://flesymeb.github.io/docs/systemstructure/</guid><description>&lt;h1 class="relative group">2024 计算机系统结构复习
-&lt;div id="2024-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0" class="anchor">&lt;/div>
+&lt;div id="2024-计算机系统结构复习" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#2024-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%b3%bb%e7%bb%9f%e7%bb%93%e6%9e%84%e5%a4%8d%e4%b9%a0" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;blockquote>
@@ -12,15 +11,14 @@ style="text-decoration-line: none !important;" href="#2024-%E8%AE%A1%E7%AE%97%E6
 &lt;/blockquote>
 &lt;hr>
 &lt;h2 class="relative group">本文框架
-&lt;div id="%E6%9C%AC%E6%96%87%E6%A1%86%E6%9E%B6" class="anchor">&lt;/div>
+&lt;div id="本文框架" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E6%9C%AC%E6%96%87%E6%A1%86%E6%9E%B6" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>&lt;strong>本文按照 2024 计算机系统结构考纲整理。&lt;/strong>
 &lt;figure>
-&lt;img class="my-0 rounded-md" loading="lazy" src="2024%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png" alt="本文框架" />
+&lt;img class="my-0 rounded-md" loading="lazy" alt="本文框架" src="2024%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png">
 &lt;/figure>
 &lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/systemstructure/featured.png"/></item></channel></rss>

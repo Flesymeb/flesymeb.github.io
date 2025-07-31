@@ -4,8 +4,7 @@
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style = "text-align: center;">
@@ -16,16 +15,14 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>读王老师书有感，摘抄一段：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-12-04/featured.jpg"/></item><item><title>2024 11 07</title><link>https://flesymeb.github.io/posts/daily/2024-11-07/</link><pubDate>Sun, 17 Nov 2024 01:42:54 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-11-07/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -36,16 +33,14 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在上海第二次看到了星星，上一次在见到星星还是大一国庆去崇明岛玩。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-11-07/featured.jpg"/></item><item><title>2024 10 3</title><link>https://flesymeb.github.io/posts/daily/2024-10-3/</link><pubDate>Thu, 03 Oct 2024 23:07:19 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-10-3/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -59,18 +54,18 @@ style="text-decoration-line: none !important;" href="#one" aria-label="锚点">#
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>A part of
 &lt;div id="gallery-7f1eebe14c601cd3ae9ed66895580d64" class="gallery">
-&lt;img src="pics/pic9.jpg" class="grid-w22" />
-&lt;img src="pics/pic1.jpg" class="grid-w33" />
-&lt;img src="pics/pic4.jpg" class="grid-w33" />
-&lt;img src="pics/pic5.jpg" class="grid-w33" />
-&lt;img src="pics/pic3.jpg" class="grid-w33" />
-&lt;img src="pics/pic6.jpg" class="grid-w33" />
-&lt;img src="pics/pic7.jpg" class="grid-w33" />
-&lt;img src="pics/pic8.jpg" class="grid-w33" />
-&lt;/div>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-10-3/featured.jpg"/></item></channel></rss>
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic9.jpg" class="grid-w22" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic1.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic4.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic5.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic3.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic6.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic7.jpg" class="grid-w33" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic8.jpg" class="grid-w33" />
+&lt;/div>
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-10-3/featured.jpg"/></item></channel></rss>
