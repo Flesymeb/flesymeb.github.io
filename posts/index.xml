@@ -1,4 +1,108 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>帖子 on Hyoung Blog</title><link>https://flesymeb.github.io/posts/</link><description>Recent content in 帖子 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Mon, 10 Mar 2025 19:22:24 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 03 10</title><link>https://flesymeb.github.io/posts/daily/2025-03-10/</link><pubDate>Mon, 10 Mar 2025 19:22:24 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-10/</guid><description>&lt;p>一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。——Stewart Brand&lt;/p></description></item><item><title>2025 03 01</title><link>https://flesymeb.github.io/posts/daily/2025-03-01/</link><pubDate>Sat, 01 Mar 2025 00:32:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-01/</guid><description>&lt;h2 class="relative group">ONE
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>帖子 on Hyoung Blog</title><link>https://flesymeb.github.io/posts/</link><description>Recent content in 帖子 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Sun, 03 Aug 2025 00:24:29 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 七月集</title><link>https://flesymeb.github.io/posts/daily/2025-08-03/</link><pubDate>Sun, 03 Aug 2025 00:24:29 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-08-03/</guid><description>&lt;blockquote>
+&lt;p>七月随拍，南北奔波、疲惫又充实的一个月 ~ &lt;br>
+或许是下来很多场大雨的缘故，七月的天空很蓝，云很白！&lt;br>
+希望一切的努力都会有回报！&lt;/p>
+&lt;/blockquote>
+&lt;!--
+&lt;div id="gallery-09e9216e3a22564bca074f05190d27ac" class="gallery">
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/01.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/02.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/09.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/07.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/08.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/03.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/06.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/05.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/04.jpg" class="grid-w50" />
+&lt;/div>
+-->
+&lt;link
+rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css"
+/>
+&lt;div class="swiper-container">
+&lt;div class="swiper-wrapper">
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/03.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/01.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/02.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/09.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/07.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/08.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/06.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/05.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/04.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;/div>
+&lt;div class="swiper-pagination">&lt;/div>
+&lt;/div>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js">&lt;/script>
+&lt;script>
+var swiper = new Swiper('.swiper-container', {
+pagination: '.swiper-pagination',
+paginationClickable: true,
+autoHeight: true,
+keyboardControl: true,
+mousewheelControl: true,
+autoplay: 2000,
+lazyLoading: true,
+lazyLoadingInPrevNext: true,
+loop: true,
+});
+&lt;/script>
+&lt;p>&lt;strong>&lt;p style = "text-align:center">Good Night! 🌙&lt;/p></description></item><item><title>2025 03 10</title><link>https://flesymeb.github.io/posts/daily/2025-03-10/</link><pubDate>Mon, 10 Mar 2025 19:22:24 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-10/</guid><description>&lt;p>一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。——Stewart Brand&lt;/p></description></item><item><title>2025 03 01</title><link>https://flesymeb.github.io/posts/daily/2025-03-01/</link><pubDate>Sat, 01 Mar 2025 00:32:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-03-01/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -92,7 +196,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;blockquote>
 &lt;p>三月，天空中纷洒着似雨似雪&lt;/p>
 &lt;/blockquote>
-&lt;p>情绪反扑，唯有读书可以让我静下心来，这两天也真是疯魔了，一天一本。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/featured.jpg"/></item><item><title>【书评】人生</title><link>https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/</link><pubDate>Fri, 18 Oct 2024 15:23:39 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/</guid><description>&lt;p>路遥刻画的人物，里面最重要的就是成长性，从一个敏感自卑但又踌躇满志的少年，长成一个饱经风雨坎坷但毫不气馁的青年，酸甜苦辣的打磨，艰难却又必须的蜕变，这就是人生。&lt;/p></description></item><item><title>【书评】蛤蟆先生去看心理医生</title><link>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</link><pubDate>Thu, 17 Oct 2024 19:21:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
+&lt;p>情绪反扑，唯有读书可以让我静下心来，这两天也真是疯魔了，一天一本。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/featured.jpg"/></item><item><title>【书评】人生</title><link>https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/</link><pubDate>Fri, 18 Oct 2024 15:23:39 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/</guid><description>&lt;p>路遥刻画的人物，里面最重要的就是成长性，从一个敏感自卑但又踌躇满志的少年，长成一个饱经风雨坎坷但毫不气馁的青年，酸甜苦辣的打磨，艰难却又必须的蜕变，这就是人生。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/featured.png"/></item><item><title>【书评】蛤蟆先生去看心理医生</title><link>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</link><pubDate>Thu, 17 Oct 2024 19:21:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
 &lt;div id="one-阅读记录" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -154,14 +258,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h2>
 &lt;p>A part of
 &lt;div id="gallery-7f1eebe14c601cd3ae9ed66895580d64" class="gallery">
-&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic9.jpg" class="grid-w22" />
-&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic1.jpg" class="grid-w33" />
-&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic4.jpg" class="grid-w33" />
-&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic5.jpg" class="grid-w33" />
-&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic3.jpg" class="grid-w33" />
-&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic6.jpg" class="grid-w33" />
-&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic7.jpg" class="grid-w33" />
-&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic8.jpg" class="grid-w33" />
+`&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic9.jpg" class="grid-w22" />`
+`&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic1.jpg" class="grid-w33" />`
+`&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic4.jpg" class="grid-w33" />`
+`&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic5.jpg" class="grid-w33" />`
+`&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic3.jpg" class="grid-w33" />`
+`&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic6.jpg" class="grid-w33" />`
+`&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic7.jpg" class="grid-w33" />`
+`&lt;img src="https://flesymeb.github.io/posts/daily/2024-10-3/pics/pic8.jpg" class="grid-w33" />`
 &lt;/div>
 &lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-10-3/featured.jpg"/></item><item><title>2024 09 28</title><link>https://flesymeb.github.io/posts/daily/2024-9-28/</link><pubDate>Sat, 28 Sep 2024 00:30:57 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-9-28/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
@@ -183,7 +287,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h2>
 &lt;center>
 &lt;text>追-张国荣&lt;/text>
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HcSE3cQH-Ic?si=Z0zeizBbsqmpJ8u7&amp;amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HcSE3cQH-Ic?si=Z0zeizBbsqmpJ8u7&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
 &lt;/center>
 &lt;hr>
 &lt;div style="text-align: center;">

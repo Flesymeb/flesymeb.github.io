@@ -1,3 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>25#胶片 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/25%23%E8%83%B6%E7%89%87/</link><description>Recent content in 25#胶片 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/25%23%E8%83%B6%E7%89%87/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 01 01</title><link>https://flesymeb.github.io/posts/daily/2025-01-01/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-01-01/</guid><description>&lt;p>&lt;strong>To：Myself&lt;/strong>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>25#胶片 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/25%23%E8%83%B6%E7%89%87/</link><description>Recent content in 25#胶片 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Sun, 03 Aug 2025 00:24:29 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/25%23%E8%83%B6%E7%89%87/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 七月集</title><link>https://flesymeb.github.io/posts/daily/2025-08-03/</link><pubDate>Sun, 03 Aug 2025 00:24:29 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-08-03/</guid><description>&lt;blockquote>
+&lt;p>七月随拍，南北奔波、疲惫又充实的一个月 ~ &lt;br>
+或许是下来很多场大雨的缘故，七月的天空很蓝，云很白！&lt;br>
+希望一切的努力都会有回报！&lt;/p>
+&lt;/blockquote>
+&lt;!--
+&lt;div id="gallery-09e9216e3a22564bca074f05190d27ac" class="gallery">
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/01.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/02.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/09.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/07.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/08.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/03.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/06.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/05.jpg" class="grid-w50" />
+&lt;img src="https://flesymeb.github.io/posts/daily/2025-08-03/pics/04.jpg" class="grid-w50" />
+&lt;/div>
+-->
+&lt;link
+rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css"
+/>
+&lt;div class="swiper-container">
+&lt;div class="swiper-wrapper">
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/03.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/01.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/02.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/09.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/07.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/08.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/06.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/05.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img
+src="pics/04.jpg"
+alt=""
+style="transform: scale(1);"
+/>
+&lt;/div>
+&lt;/div>
+&lt;div class="swiper-pagination">&lt;/div>
+&lt;/div>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js">&lt;/script>
+&lt;script>
+var swiper = new Swiper('.swiper-container', {
+pagination: '.swiper-pagination',
+paginationClickable: true,
+autoHeight: true,
+keyboardControl: true,
+mousewheelControl: true,
+autoplay: 2000,
+lazyLoading: true,
+lazyLoadingInPrevNext: true,
+loop: true,
+});
+&lt;/script>
+&lt;p>&lt;strong>&lt;p style = "text-align:center">Good Night! 🌙&lt;/p></description></item><item><title>2025 01 01</title><link>https://flesymeb.github.io/posts/daily/2025-01-01/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-01-01/</guid><description>&lt;p>&lt;strong>To：Myself&lt;/strong>&lt;/p>
 &lt;p>新年快乐！&lt;/p>
 &lt;p>这是一封迟来的信，来自春节后返校的你。在新的一年里，祝你万事顺意，继续做一个善良乐观的男孩，不要质疑自己，质疑未来。过去的一年是甜酸苦辣的一年，用物理学知识来解释：“生活中，有一些事情是不可逆的，就像熵增原理，事物总是向无序的方向发展，一切都是会变的。如果你想要维持生活的秩序，那就要付出一些去做功。”然后呢，不要留恋过去，也不要畏惧未来，20年里你经历了很多，成长了很多，现在分割线到了，从今年起，你就是20+了，不要再像小孩一样幼稚经不起拷打了，未来的考验会更多，但是相信你会越来越好的！&lt;/p></description></item></channel></rss>
