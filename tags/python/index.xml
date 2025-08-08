@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Hyoung Blog</title><link>https://flesymeb.github.io/tags/python/</link><description>Recent content in Python on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Thu, 07 Aug 2025 23:44:16 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>1.2 Numpy数组运算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</link><pubDate>Thu, 07 Aug 2025 23:44:16 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</guid><description>&lt;h2 class="relative group">1.2.1 向量的运算
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Hyoung Blog</title><link>https://flesymeb.github.io/tags/python/</link><description>Recent content in Python on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Hyoung Yan</copyright><lastBuildDate>Fri, 08 Aug 2025 16:45:58 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>1.3 Numpy与线性代数</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link><pubDate>Fri, 08 Aug 2025 16:45:58 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</guid><description>&lt;h2 class="relative group">1.3.1 基本线性代数运算
+&lt;div id="131-基本线性代数运算" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#131-%e5%9f%ba%e6%9c%ac%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e8%bf%90%e7%ae%97" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">逆矩阵
+&lt;div id="逆矩阵" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%80%86%e7%9f%a9%e9%98%b5" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>逆矩阵是线性代数中的一个基本概念，主要用于解线性方程组、矩阵的分解以及计算机图形学等领域，对于一个给定的方阵 \(A\)，如果存在另一个方阵 \(B\)，使得 \(AB = BA = I\)（其中 \(I\) 是单位矩阵），则称 \(B\) 为 \(A\) 的逆矩阵，记作 \(A^{-1}\)。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/featured.png"/></item><item><title>1.2 Numpy数组运算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</link><pubDate>Thu, 07 Aug 2025 23:44:16 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</guid><description>&lt;h2 class="relative group">1.2.1 向量的运算
 &lt;div id="121-向量的运算" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
