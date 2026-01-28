@@ -1,28 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数据结构 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link><description>Recent content in 数据结构 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sat, 28 Sep 2024 12:21:44 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello 算法, 带有动画图解的数据结构与算法教程</title><link>https://flesymeb.github.io/docs/hello_algo/</link><pubDate>Sat, 28 Sep 2024 12:21:44 +0800</pubDate><guid>https://flesymeb.github.io/docs/hello_algo/</guid><description>&lt;h3 class="relative group"&gt;介绍
- &lt;div id="介绍" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="锚点"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;《Hello 算法》：动画图解、一键运行的数据结构与算法教程&lt;/li&gt;
-&lt;li&gt;支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码&lt;/li&gt;
-&lt;li&gt;适合初学者，从零开始学习数据结构与算法&lt;/li&gt;
-&lt;li&gt;免费电子书，界面美观&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
- class="my-0 rounded-md"
- loading="lazy"
- decoding="async"
- fetchpriority="auto"
- alt="动画图解"
- width="1280"
- height="865"
- src="https://flesymeb.github.io/docs/hello_algo/demo_hu_7e775c3f6de71eaf.gif"
- srcset="https://flesymeb.github.io/docs/hello_algo/demo_hu_7e775c3f6de71eaf.gif 800w, https://flesymeb.github.io/docs/hello_algo/demo.gif 1280w"
- sizes="(min-width: 768px) 50vw, 65vw"
- data-zoom-src="https://flesymeb.github.io/docs/hello_algo/demo.gif"&gt;&lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/hello_algo/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数据结构 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link><description>Recent content in 数据结构 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sat, 28 Sep 2024 12:21:44 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello 算法, 带有动画图解的数据结构与算法教程</title><link>https://flesymeb.github.io/docs/hello_algo/</link><pubDate>Sat, 28 Sep 2024 12:21:44 +0800</pubDate><guid>https://flesymeb.github.io/docs/hello_algo/</guid><description>&lt;h3 class="relative group">介绍
+&lt;div id="介绍" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>《Hello 算法》：动画图解、一键运行的数据结构与算法教程&lt;/li>
+&lt;li>支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码&lt;/li>
+&lt;li>适合初学者，从零开始学习数据结构与算法&lt;/li>
+&lt;li>免费电子书，界面美观&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure>
+&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="动画图解"
+srcset="
+/docs/hello_algo/demo_hu_4bbd3aa79ada1e56.gif 330w,
+/docs/hello_algo/demo_hu_15082b7779f68131.gif 660w,
+/docs/hello_algo/demo_hu_5a28568b71126f27.gif 1280w
+"
+data-zoom-src="https://flesymeb.github.io/docs/hello_algo/demo.gif"
+src="https://flesymeb.github.io/docs/hello_algo/demo.gif">
+&lt;/figure>
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/hello_algo/featured.png"/></item></channel></rss>
