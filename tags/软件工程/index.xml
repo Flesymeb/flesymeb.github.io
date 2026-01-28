@@ -1,24 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>软件工程 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/</link><description>Recent content in 软件工程 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sat, 21 Dec 2024 01:53:50 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 软件工程复习</title><link>https://flesymeb.github.io/docs/softwareengineering/</link><pubDate>Sat, 21 Dec 2024 01:53:50 +0800</pubDate><guid>https://flesymeb.github.io/docs/softwareengineering/</guid><description>&lt;h1 class="relative group">2024 软件工程复习
-&lt;div id="2024-软件工程复习" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e5%a4%8d%e4%b9%a0" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h1>
-&lt;blockquote>
-&lt;p>Tongji University. 2024/12/21 &lt;br>
-Hyoung Yan&lt;/p>
-&lt;/blockquote>
-&lt;hr>
-&lt;h2 class="relative group">本文框架
-&lt;div id="本文框架" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>
-&lt;figure>
-&lt;img class="my-0 rounded-md" loading="lazy" alt="本文框架" src="2024%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png">
-&lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/softwareengineering/featured.jpeg"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>软件工程 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/</link><description>Recent content in 软件工程 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sat, 21 Dec 2024 01:53:50 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 软件工程复习</title><link>https://flesymeb.github.io/docs/softwareengineering/</link><pubDate>Sat, 21 Dec 2024 01:53:50 +0800</pubDate><guid>https://flesymeb.github.io/docs/softwareengineering/</guid><description>&lt;h1 class="relative group"&gt;2024 软件工程复习
+ &lt;div id="2024-软件工程复习" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#2024-%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e5%a4%8d%e4%b9%a0" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;blockquote&gt;&lt;p&gt;Tongji University. 2024/12/21 &lt;br&gt;
+Hyoung Yan&lt;/p&gt;
+&lt;/blockquote&gt;&lt;hr&gt;
+
+&lt;h2 class="relative group"&gt;本文框架
+ &lt;div id="本文框架" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="auto"
+ alt="本文框架"
+ width="1068"
+ height="964"
+ src="https://flesymeb.github.io/docs/softwareengineering/2024%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6_hu_f961051eb4cb1ad2.png"
+ srcset="https://flesymeb.github.io/docs/softwareengineering/2024%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6_hu_f961051eb4cb1ad2.png 800w, https://flesymeb.github.io/docs/softwareengineering/2024%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png 1280w"
+ sizes="(min-width: 768px) 50vw, 65vw"
+ data-zoom-src="https://flesymeb.github.io/docs/softwareengineering/2024%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png"&gt;&lt;/figure&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/softwareengineering/featured.jpeg"/></item></channel></rss>

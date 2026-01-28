@@ -1,0 +1,15 @@
+{
+  "version": "1.3.0",
+  "timestamp": "2026-01-28T13:39:48.909Z",
+  "icons": {
+    "mode": "favicon",
+    "region": "cn"
+  },
+  "data": {
+    "homePageId": "bookmarks",
+    "pageTemplates": {
+      "bookmarks": "bookmarks",
+      "common": "page"
+    }
+  }
+}

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>阅读 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/%E9%98%85%E8%AF%BB/</link><description>Recent content in 阅读 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sat, 26 Oct 2024 14:57:25 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>Follow,下一代的聚合信息浏览器</title><link>https://flesymeb.github.io/docs/follow_the_rss_reader/</link><pubDate>Sat, 26 Oct 2024 14:57:25 +0800</pubDate><guid>https://flesymeb.github.io/docs/follow_the_rss_reader/</guid><description>&lt;h2 class="relative group">介绍
-&lt;div id="介绍" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;blockquote>
-&lt;p>Follow,下一代的聚合信息浏览器&lt;/p>
-&lt;/blockquote>
-&lt;p>Follow 为用户提供了一个全新的信息聚合平台，但远不止于此。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/follow_the_rss_reader/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>阅读 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/%E9%98%85%E8%AF%BB/</link><description>Recent content in 阅读 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sat, 26 Oct 2024 14:57:25 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>Follow,下一代的聚合信息浏览器</title><link>https://flesymeb.github.io/docs/follow_the_rss_reader/</link><pubDate>Sat, 26 Oct 2024 14:57:25 +0800</pubDate><guid>https://flesymeb.github.io/docs/follow_the_rss_reader/</guid><description>&lt;h2 class="relative group"&gt;介绍
+ &lt;div id="介绍" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;blockquote&gt;&lt;p&gt;Follow,下一代的聚合信息浏览器&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;Follow 为用户提供了一个全新的信息聚合平台，但远不止于此。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/follow_the_rss_reader/featured.png"/></item></channel></rss>

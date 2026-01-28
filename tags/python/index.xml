@@ -1,44 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Hyoung Blog</title><link>https://flesymeb.github.io/tags/python/</link><description>Recent content in Python on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sat, 09 Aug 2025 17:40:53 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>1.4 Numpy与多项式计算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/</link><pubDate>Sat, 09 Aug 2025 17:40:53 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/</guid><description>&lt;h2 class="relative group">1.4.1 多项式的构造与运算
-&lt;div id="141-多项式的构造与运算" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#141-%e5%a4%9a%e9%a1%b9%e5%bc%8f%e7%9a%84%e6%9e%84%e9%80%a0%e4%b8%8e%e8%bf%90%e7%ae%97" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>&lt;code>numpy.poly1d&lt;/code>是 Numpy 中用于表示一维多项式的类。你可以通过系数来创建多项式，并使用这个类进行多项式的计算（如加法、乘法、求值等）。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/featured.png"/></item><item><title>1.3 Numpy与线性代数</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link><pubDate>Fri, 08 Aug 2025 16:45:58 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</guid><description>&lt;h2 class="relative group">1.3.1 基本线性代数运算
-&lt;div id="131-基本线性代数运算" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#131-%e5%9f%ba%e6%9c%ac%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e8%bf%90%e7%ae%97" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;h3 class="relative group">逆矩阵
-&lt;div id="逆矩阵" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%80%86%e7%9f%a9%e9%98%b5" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;p>逆矩阵是线性代数中的一个基本概念，主要用于解线性方程组、矩阵的分解以及计算机图形学等领域，对于一个给定的方阵 \(A\)，如果存在另一个方阵 \(B\)，使得 \(AB = BA = I\)（其中 \(I\) 是单位矩阵），则称 \(B\) 为 \(A\) 的逆矩阵，记作 \(A^{-1}\)。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/featured.png"/></item><item><title>1.2 Numpy数组运算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</link><pubDate>Thu, 07 Aug 2025 23:44:16 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</guid><description>&lt;h2 class="relative group">1.2.1 向量的运算
-&lt;div id="121-向量的运算" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#121-%e5%90%91%e9%87%8f%e7%9a%84%e8%bf%90%e7%ae%97" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;h3 class="relative group">对元素的操作
-&lt;div id="对元素的操作" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%af%b9%e5%85%83%e7%b4%a0%e7%9a%84%e6%93%8d%e4%bd%9c" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;p>如果要进行逐元素的运算就可能用到循环，和列表类似，可以使用 for 循环来遍历一个 &lt;code>numpy.array&lt;/code>。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/featured.png"/></item><item><title>1.1 Numpy数组基础</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.1-numpy%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80/</link><pubDate>Thu, 31 Jul 2025 20:22:40 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.1-numpy%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80/</guid><description>&lt;h2 class="relative group">1.1.1 Numpy 中的数据格式
-&lt;div id="111-numpy-中的数据格式" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#111-numpy-%e4%b8%ad%e7%9a%84%e6%95%b0%e6%8d%ae%e6%a0%bc%e5%bc%8f" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>numpy 在数据类型上相比原生 python 更接近于 C，光整数类型就分了 int32，int64 等，浮点数也有 float32，float64 等，在字长和类型上进行了更好地统一，方便 numpy 与 C 的无缝衔接&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.1-numpy%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80/featured.png"/></item><item><title>【科学计算】NumPy及其基本使用</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/</link><pubDate>Thu, 31 Jul 2025 18:42:29 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/</guid><description>&lt;p>&lt;code>Numpy&lt;/code> 是我们接触科学计算的第一个工具包，主要用来解决向量和矩阵的运算。它将矩阵抽象为二维数组，在二维数组上定义了一系列矩阵算数运算的基本操作。
-&lt;code>Numpy&lt;/code> 的底层是通过 &lt;code>C&lt;/code> 语言实现的，相比较于原生的 &lt;code>Python&lt;/code> 列表，&lt;code>Numpy&lt;/code> 数组在存储和运算上都更高效。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Hyoung Blog</title><link>https://flesymeb.github.io/tags/python/</link><description>Recent content in Python on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sat, 09 Aug 2025 17:40:53 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>1.4 Numpy与多项式计算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/</link><pubDate>Sat, 09 Aug 2025 17:40:53 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/</guid><description>&lt;h2 class="relative group"&gt;1.4.1 多项式的构造与运算
+ &lt;div id="141-多项式的构造与运算" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#141-%e5%a4%9a%e9%a1%b9%e5%bc%8f%e7%9a%84%e6%9e%84%e9%80%a0%e4%b8%8e%e8%bf%90%e7%ae%97" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;numpy.poly1d&lt;/code&gt;是 Numpy 中用于表示一维多项式的类。你可以通过系数来创建多项式，并使用这个类进行多项式的计算（如加法、乘法、求值等）。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/featured.png"/></item><item><title>1.3 Numpy与线性代数</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link><pubDate>Fri, 08 Aug 2025 16:45:58 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</guid><description>&lt;h2 class="relative group"&gt;1.3.1 基本线性代数运算
+ &lt;div id="131-基本线性代数运算" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#131-%e5%9f%ba%e6%9c%ac%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e8%bf%90%e7%ae%97" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+
+&lt;h3 class="relative group"&gt;逆矩阵
+ &lt;div id="逆矩阵" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e9%80%86%e7%9f%a9%e9%98%b5" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;逆矩阵是线性代数中的一个基本概念，主要用于解线性方程组、矩阵的分解以及计算机图形学等领域，对于一个给定的方阵 \(A\)，如果存在另一个方阵 \(B\)，使得 \(AB = BA = I\)（其中 \(I\) 是单位矩阵），则称 \(B\) 为 \(A\) 的逆矩阵，记作 \(A^{-1}\)。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/featured.png"/></item><item><title>1.2 Numpy数组运算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</link><pubDate>Thu, 07 Aug 2025 23:44:16 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</guid><description>&lt;h2 class="relative group"&gt;1.2.1 向量的运算
+ &lt;div id="121-向量的运算" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#121-%e5%90%91%e9%87%8f%e7%9a%84%e8%bf%90%e7%ae%97" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+
+&lt;h3 class="relative group"&gt;对元素的操作
+ &lt;div id="对元素的操作" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%af%b9%e5%85%83%e7%b4%a0%e7%9a%84%e6%93%8d%e4%bd%9c" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;如果要进行逐元素的运算就可能用到循环，和列表类似，可以使用 for 循环来遍历一个 &lt;code&gt;numpy.array&lt;/code&gt;。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/featured.png"/></item><item><title>1.1 Numpy数组基础</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.1-numpy%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80/</link><pubDate>Thu, 31 Jul 2025 20:22:40 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.1-numpy%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80/</guid><description>&lt;h2 class="relative group"&gt;1.1.1 Numpy 中的数据格式
+ &lt;div id="111-numpy-中的数据格式" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#111-numpy-%e4%b8%ad%e7%9a%84%e6%95%b0%e6%8d%ae%e6%a0%bc%e5%bc%8f" aria-label="锚点"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;numpy 在数据类型上相比原生 python 更接近于 C，光整数类型就分了 int32，int64 等，浮点数也有 float32，float64 等，在字长和类型上进行了更好地统一，方便 numpy 与 C 的无缝衔接&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.1-numpy%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80/featured.png"/></item><item><title>【科学计算】NumPy及其基本使用</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/</link><pubDate>Thu, 31 Jul 2025 18:42:29 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/</guid><description>&lt;p&gt;&lt;code&gt;Numpy&lt;/code&gt; 是我们接触科学计算的第一个工具包，主要用来解决向量和矩阵的运算。它将矩阵抽象为二维数组，在二维数组上定义了一系列矩阵算数运算的基本操作。
+&lt;code&gt;Numpy&lt;/code&gt; 的底层是通过 &lt;code&gt;C&lt;/code&gt; 语言实现的，相比较于原生的 &lt;code&gt;Python&lt;/code&gt; 列表，&lt;code&gt;Numpy&lt;/code&gt; 数组在存储和运算上都更高效。&lt;/p&gt;</description></item></channel></rss>
