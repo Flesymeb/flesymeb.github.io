@@ -1,1 +1,290 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Hyoung Blog</title><link>https://flesymeb.github.io/authors/</link><description>Recent content in Authors on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><atom:link href="https://flesymeb.github.io/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>Hyoung Yan</title><link>https://flesymeb.github.io/authors/hyoungyan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://flesymeb.github.io/authors/hyoungyan/</guid><description>&lt;p>I am a senior undergraduate student majoring in Computer Science and Technology at Tongji University.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Yan's Blog</title><link>https://flesymeb.github.io/authors/</link><description>Recent content in Authors on Yan's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Hyoung Yan</copyright><atom:link href="https://flesymeb.github.io/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>Hyoung Yan</title><link>https://flesymeb.github.io/authors/hyoungyan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://flesymeb.github.io/authors/hyoungyan/</guid><description>&lt;blockquote>
+&lt;p>A life-loving explorer who enjoys diving into technology and building things for pure fun.&lt;/p>&lt;/blockquote>
+&lt;h2 class="relative group">About Me
+&lt;div id="about-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#about-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;style>
+#typewriter-0 {
+border-radius: 12px;
+overflow: hidden;
+border: 1px solid rgba(129, 140, 248, 0.24);
+box-shadow: 0 12px 28px rgba(30, 41, 59, 0.26), 0 0 22px rgba(99, 102, 241, 0.12);
+margin: 1rem 0;
+background: linear-gradient(180deg, rgba(17, 24, 39, 0.95) 0%, rgba(15, 18, 32, 0.96) 100%);
+width: min(100%, 860px);
+}
+#typewriter-0 .cmd-head {
+display: flex;
+align-items: center;
+justify-content: space-between;
+background: linear-gradient(90deg, rgba(30, 41, 59, 0.95) 0%, rgba(51, 65, 85, 0.94) 45%, rgba(67, 56, 202, 0.42) 100%);
+color: #e2e8f0;
+padding: 0.42rem 0.72rem;
+font-size: 0.74rem;
+letter-spacing: 0.015em;
+border-bottom: 1px solid rgba(129, 140, 248, 0.26);
+}
+#typewriter-0 .cmd-lights {
+display: inline-flex;
+gap: 0.32rem;
+}
+#typewriter-0 .cmd-lights span {
+width: 0.48rem;
+height: 0.48rem;
+border-radius: 9999px;
+display: inline-block;
+box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.15);
+}
+#typewriter-0 .cmd-lights span:nth-child(1) { background: #93c5fd; }
+#typewriter-0 .cmd-lights span:nth-child(2) { background: #a5b4fc; }
+#typewriter-0 .cmd-lights span:nth-child(3) { background: #c4b5fd; }
+#typewriter-0 .cmd-title {
+opacity: 0.9;
+}
+#typewriter-0 .cmd-body {
+background: radial-gradient(120% 120% at 100% 0%, #111827 0%, #0f172a 52%, #11122a 100%);
+padding: 0.9rem 0.95rem;
+min-height: 260px;
+}
+#typewriter-0 .typewriter-output {
+margin: 0;
+white-space: pre-wrap;
+word-break: break-word;
+font-size: 0.92rem;
+line-height: 1.7;
+font-family: "JetBrains Mono", "Fira Code", ui-monospace, monospace;
+}
+#typewriter-0 .tw-line {
+display: block;
+}
+#typewriter-0 .tw-prompt {
+color: #c4b5fd;
+opacity: 0.95;
+}
+#typewriter-0 .tw-command {
+color: #93c5fd;
+text-shadow: 0 0 10px rgba(147, 197, 253, 0.22);
+}
+#typewriter-0 .tw-output {
+color: #e2e8f0;
+text-shadow: 0 0 7px rgba(226, 232, 240, 0.15);
+}
+#typewriter-0 .tw-output-pop {
+color: #f9a8d4;
+text-shadow: 0 0 9px rgba(249, 168, 212, 0.26);
+animation: typewriter-0-pop 420ms ease-out both;
+}
+#typewriter-0 .tw-progress {
+color: #c4b5fd;
+text-shadow: 0 0 8px rgba(196, 181, 253, 0.2);
+}
+#typewriter-0 .tw-success {
+color: #86efac;
+text-shadow: 0 0 9px rgba(74, 222, 128, 0.4);
+animation: typewriter-0-pop 380ms ease-out both;
+}
+#typewriter-0 .tw-plain {
+color: #dbeafe;
+}
+#typewriter-0 .cmd-cursor {
+color: #a5b4fc;
+animation: typewriter-0-blink 1s step-end infinite, typewriter-0-glow 1.4s ease-in-out infinite;
+display: inline-block;
+margin-left: 1px;
+}
+#typewriter-0 .cmd-cursor.hit {
+transform: translateY(-1px) scale(1.08);
+filter: drop-shadow(0 0 6px rgba(165, 180, 252, 0.72));
+}
+@keyframes typewriter-0-blink {
+0%, 45% { opacity: 1; }
+46%, 100% { opacity: 0.18; }
+}
+@keyframes typewriter-0-glow {
+0%, 100% { text-shadow: 0 0 6px rgba(165, 180, 252, 0.35); }
+50% { text-shadow: 0 0 12px rgba(165, 180, 252, 0.72); }
+}
+@keyframes typewriter-0-pop {
+0% { opacity: 0; transform: translateY(6px) scale(0.98); }
+100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+&lt;/style>
+&lt;div id="typewriter-0">
+&lt;div class="cmd-head">
+&lt;span class="cmd-title">hyoung@flesymeb:~&lt;/span>
+&lt;span class="cmd-lights">&lt;span>&lt;/span>&lt;span>&lt;/span>&lt;span>&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="cmd-body">
+&lt;div class="typewriter-output">&lt;/div>
+&lt;span class="cmd-cursor">█&lt;/span>
+&lt;/div>
+&lt;div class="hidden typewriter-source">
+&lt;span class="line">$ whoami&lt;/span>
+&lt;span class="line">! Hyoung Yan&lt;/span>
+&lt;span class="line">$ edu --current&lt;/span>
+&lt;span class="line">! Tongji University | B.Eng. in Computer Science&lt;/span>
+&lt;span class="line">$ query --next-stop&lt;/span>
+&lt;span class="line">!bar loading roadmap&lt;/span>
+&lt;span class="line">!ok [UNLOCKED] SJTU &amp;amp; AILAB&lt;/span>
+&lt;span class="line">$ query &amp;#34;what is this website for?&amp;#34;&lt;/span>
+&lt;span class="line">! build • learn • share&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;script>
+(() => {
+const root = document.getElementById("typewriter-0");
+if (!root) return;
+const output = root.querySelector(".typewriter-output");
+const cursor = root.querySelector(".cmd-cursor");
+const lines = [...root.querySelectorAll(".typewriter-source .line")]
+.map((element) => element.textContent)
+.filter((line) => line &amp;&amp; line.trim().length > 0);
+const prompt = "hyoung@flesymeb:~$ ";
+const speed = Number("26") || 30;
+const lineDelay = Number("520") || 500;
+let lineIndex = 0;
+let charIndex = 0;
+let currentLine = "";
+let currentMode = "plain";
+let currentTextNode = null;
+let currentLineNode = null;
+let currentPrepared = null;
+function createLine(mode) {
+const line = document.createElement("span");
+line.className = "tw-line";
+if (mode === "command") {
+const promptNode = document.createElement("span");
+promptNode.className = "tw-prompt";
+promptNode.textContent = prompt;
+const commandNode = document.createElement("span");
+commandNode.className = "tw-command";
+line.appendChild(promptNode);
+line.appendChild(commandNode);
+output.appendChild(line);
+currentLineNode = line;
+return commandNode;
+}
+const modeNode = document.createElement("span");
+if (mode === "output-pop") {
+modeNode.className = "tw-output-pop";
+} else if (mode === "progress") {
+modeNode.className = "tw-progress";
+} else if (mode === "success") {
+modeNode.className = "tw-success";
+} else {
+modeNode.className = mode === "output" ? "tw-output" : "tw-plain";
+}
+line.appendChild(modeNode);
+output.appendChild(line);
+currentLineNode = line;
+return modeNode;
+}
+function prepareLine(rawLine) {
+if (rawLine.startsWith("$ ")) {
+return { mode: "command", text: rawLine.slice(2) };
+}
+if (rawLine.startsWith("!bar ")) {
+return { mode: "progress", text: rawLine.slice(5) || "loading" };
+}
+if (rawLine.startsWith("!ok ")) {
+return { mode: "success", text: rawLine.slice(4) };
+}
+if (rawLine.startsWith("!pop ")) {
+return { mode: "output-pop", text: rawLine.slice(5) };
+}
+if (rawLine.startsWith("! ")) {
+return { mode: "output", text: rawLine.slice(2) };
+}
+return { mode: "plain", text: rawLine };
+}
+function animateProgress(label, done) {
+currentTextNode = createLine("progress");
+if (currentLineNode) {
+currentLineNode.appendChild(cursor);
+}
+let percent = 0;
+const totalBlocks = 24;
+function render() {
+const filled = Math.round((percent / 100) * totalBlocks);
+const bar = "■".repeat(filled) + "□".repeat(totalBlocks - filled);
+currentTextNode.textContent = `${label} [${bar}] ${percent}%`;
+}
+render();
+const timer = setInterval(() => {
+const step = percent &lt; 70 ? 7 : percent &lt; 90 ? 4 : 2;
+percent = Math.min(100, percent + step);
+render();
+cursor.classList.add("hit");
+setTimeout(() => cursor.classList.remove("hit"), 70);
+if (percent >= 100) {
+clearInterval(timer);
+done();
+}
+}, 85);
+}
+function typeNextChar() {
+if (lineIndex >= lines.length) return;
+if (charIndex === 0) {
+const prepared = prepareLine(lines[lineIndex]);
+currentPrepared = prepared;
+currentMode = prepared.mode;
+currentLine = prepared.text;
+if (currentMode === "progress") {
+animateProgress(currentLine, () => {
+lineIndex += 1;
+charIndex = 0;
+setTimeout(typeNextChar, lineDelay);
+});
+return;
+}
+currentTextNode = createLine(currentMode);
+if (currentLineNode) {
+currentLineNode.appendChild(cursor);
+}
+}
+if (charIndex &lt; currentLine.length) {
+currentTextNode.textContent += currentLine.charAt(charIndex);
+cursor.classList.add("hit");
+setTimeout(() => cursor.classList.remove("hit"), Math.max(60, speed));
+charIndex += 1;
+setTimeout(typeNextChar, speed);
+return;
+}
+lineIndex += 1;
+charIndex = 0;
+setTimeout(typeNextChar, lineDelay);
+}
+typeNextChar();
+})();
+&lt;/script>
+&lt;h2 class="relative group">Interests
+&lt;div id="interests" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#interests" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>AI &amp;amp; Multi-Agent systems&lt;/li>
+&lt;li>Software engineering and developer tooling&lt;/li>
+&lt;li>Reading, films, photography, and music&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Links
+&lt;div id="links" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#links" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>GitHub: &lt;a
+href="https://github.com/flesymeb"
+target="_blank"
+>flesymeb&lt;/a>&lt;/li>
+&lt;li>Email: &lt;a
+href="mailto:hyoungyan@outlook.com">hyoungyan@outlook.com&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

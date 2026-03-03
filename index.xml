@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>. on Hyoung Blog</title><link>https://flesymeb.github.io/</link><description>Recent content in . on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Thu, 29 Jan 2026 01:39:04 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>清除 GitHub 的僵尸通知</title><link>https://flesymeb.github.io/docs/fixbugs/remove_github_notices/</link><pubDate>Mon, 06 Oct 2025 12:31:40 +0800</pubDate><guid>https://flesymeb.github.io/docs/fixbugs/remove_github_notices/</guid><description>&lt;p>在使用 GitHub 的过程中，可能会遇到一些无法关闭的僵尸通知。这些通知通常来自已或某些已删除的原始仓库，但依然存在于通知列表中无法消除。以下是使用 GitHub CLI 清除僵尸通知，解决这一问题的步骤：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/fixbugs/remove_github_notices/featured.png"/></item><item><title>1.4 Numpy与多项式计算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/</link><pubDate>Sat, 09 Aug 2025 17:40:53 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/</guid><description>&lt;h2 class="relative group">1.4.1 多项式的构造与运算
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>. on Yan's Blog</title><link>https://flesymeb.github.io/</link><description>Recent content in . on Yan's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Mon, 06 Oct 2025 12:31:40 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>清除 GitHub 的僵尸通知</title><link>https://flesymeb.github.io/docs/fixbugs/remove_github_notices/</link><pubDate>Mon, 06 Oct 2025 12:31:40 +0800</pubDate><guid>https://flesymeb.github.io/docs/fixbugs/remove_github_notices/</guid><description>&lt;p>在使用 GitHub 的过程中，可能会遇到一些无法关闭的僵尸通知。这些通知通常来自已或某些已删除的原始仓库，但依然存在于通知列表中无法消除。以下是使用 GitHub CLI 清除僵尸通知，解决这一问题的步骤：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/fixbugs/remove_github_notices/featured.png"/></item><item><title>1.4 Numpy与多项式计算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/</link><pubDate>Sat, 09 Aug 2025 17:40:53 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/</guid><description>&lt;h2 class="relative group">1.4.1 多项式的构造与运算
 &lt;div id="141-多项式的构造与运算" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#141-%e5%a4%9a%e9%a1%b9%e5%bc%8f%e7%9a%84%e6%9e%84%e9%80%a0%e4%b8%8e%e8%bf%90%e7%ae%97" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#141-%e5%a4%9a%e9%a1%b9%e5%bc%8f%e7%9a%84%e6%9e%84%e9%80%a0%e4%b8%8e%e8%bf%90%e7%ae%97" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>&lt;code>numpy.poly1d&lt;/code>是 Numpy 中用于表示一维多项式的类。你可以通过系数来创建多项式，并使用这个类进行多项式的计算（如加法、乘法、求值等）。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.4-numpy%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%AE%A1%E7%AE%97/featured.png"/></item><item><title>1.3 Numpy与线性代数</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link><pubDate>Fri, 08 Aug 2025 16:45:58 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</guid><description>&lt;h2 class="relative group">1.3.1 基本线性代数运算
 &lt;div id="131-基本线性代数运算" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#131-%e5%9f%ba%e6%9c%ac%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e8%bf%90%e7%ae%97" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#131-%e5%9f%ba%e6%9c%ac%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e8%bf%90%e7%ae%97" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;h3 class="relative group">逆矩阵
 &lt;div id="逆矩阵" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%80%86%e7%9f%a9%e9%98%b5" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%80%86%e7%9f%a9%e9%98%b5" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;p>逆矩阵是线性代数中的一个基本概念，主要用于解线性方程组、矩阵的分解以及计算机图形学等领域，对于一个给定的方阵 \(A\)，如果存在另一个方阵 \(B\)，使得 \(AB = BA = I\)（其中 \(I\) 是单位矩阵），则称 \(B\) 为 \(A\) 的逆矩阵，记作 \(A^{-1}\)。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.3-numpy%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/featured.png"/></item><item><title>1.2 Numpy数组运算</title><link>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</link><pubDate>Thu, 07 Aug 2025 23:44:16 +0800</pubDate><guid>https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/</guid><description>&lt;h2 class="relative group">1.2.1 向量的运算
 &lt;div id="121-向量的运算" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#121-%e5%90%91%e9%87%8f%e7%9a%84%e8%bf%90%e7%ae%97" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#121-%e5%90%91%e9%87%8f%e7%9a%84%e8%bf%90%e7%ae%97" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;h3 class="relative group">对元素的操作
 &lt;div id="对元素的操作" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%af%b9%e5%85%83%e7%b4%a0%e7%9a%84%e6%93%8d%e4%bd%9c" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%af%b9%e5%85%83%e7%b4%a0%e7%9a%84%e6%93%8d%e4%bd%9c" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;p>如果要进行逐元素的运算就可能用到循环，和列表类似，可以使用 for 循环来遍历一个 &lt;code>numpy.array&lt;/code>。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.2-numpy%E6%95%B0%E7%BB%84%E8%BF%90%E7%AE%97/featured.png"/></item><item><title>【书评】紫禁城的黄昏</title><link>https://flesymeb.github.io/posts/books/05_%E7%B4%AB%E7%A6%81%E5%9F%8E%E7%9A%84%E9%BB%84%E6%98%8F/</link><pubDate>Mon, 04 Aug 2025 23:17:05 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/05_%E7%B4%AB%E7%A6%81%E5%9F%8E%E7%9A%84%E9%BB%84%E6%98%8F/</guid><description>&lt;h2 class="relative group">ONE 内容介绍
 &lt;div id="one-内容介绍" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e5%86%85%e5%ae%b9%e4%bb%8b%e7%bb%8d" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e5%86%85%e5%ae%b9%e4%bb%8b%e7%bb%8d" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>《紫禁城的黄昏》记述了困居紫禁城中满清的黄昏时期(1912 年至 1924 年)从中华民国成立到溥仪出宫期间的历史。&lt;br>
@@ -163,29 +163,38 @@ loop: true,
 &lt;div id="111-numpy-中的数据格式" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#111-numpy-%e4%b8%ad%e7%9a%84%e6%95%b0%e6%8d%ae%e6%a0%bc%e5%bc%8f" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#111-numpy-%e4%b8%ad%e7%9a%84%e6%95%b0%e6%8d%ae%e6%a0%bc%e5%bc%8f" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>numpy 在数据类型上相比原生 python 更接近于 C，光整数类型就分了 int32，int64 等，浮点数也有 float32，float64 等，在字长和类型上进行了更好地统一，方便 numpy 与 C 的无缝衔接&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/scientific-computing/numpy-study/1.1-numpy%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80/featured.png"/></item><item><title>Don't Build Multi-Agents</title><link>https://flesymeb.github.io/docs/dontbuildmultti-agents/</link><pubDate>Wed, 18 Jun 2025 14:01:38 +0800</pubDate><guid>https://flesymeb.github.io/docs/dontbuildmultti-agents/</guid><description>&lt;h2 class="relative group">前言
 &lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>看到一篇很好的文章，作者质疑了多智能体系统的必要性，认为他们违背了&lt;strong>认知可靠性&lt;/strong>的基本原理：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/dontbuildmultti-agents/featured.png"/></item><item><title>【算法】常用算法模版总结</title><link>https://flesymeb.github.io/docs/algorithm/template/</link><pubDate>Wed, 21 May 2025 16:24:53 +0800</pubDate><guid>https://flesymeb.github.io/docs/algorithm/template/</guid><description>&lt;p>总结一些常用的算法思路和模板&lt;/p>
+&lt;p>看到一篇很好的文章，作者质疑了多智能体系统的必要性，认为他们违背了&lt;strong>认知可靠性&lt;/strong>的基本原理：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>上下文碎片化悖论：&lt;/strong> LLMs 的决策质量与上下文完整性正相关。由于子代理缺失主代理的决策树，导致输出偏差。&lt;/li>
+&lt;li>&lt;strong>决策熵增定律：&lt;/strong> 并行系统决策结点数与系统混乱度呈指数关系。多个子代理独立产生的设计决策很大概率发生协调冲突。&lt;/li>
+&lt;/ul>
+&lt;p>正好最近对群体智能很感兴趣，所以记录下。
+&lt;a
+href="https://cognition.ai/blog/dont-build-multi-agents#principles-of-context-engineering"
+target="_blank"
+>Don&amp;rsquo;t Build Multi-Agents&lt;/a>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/dontbuildmultti-agents/featured.png"/></item><item><title>【算法】常用算法模版总结</title><link>https://flesymeb.github.io/docs/algorithm/template/</link><pubDate>Wed, 21 May 2025 16:24:53 +0800</pubDate><guid>https://flesymeb.github.io/docs/algorithm/template/</guid><description>&lt;p>总结一些常用的算法思路和模板&lt;/p>
 &lt;h2 class="relative group">搜索
 &lt;div id="搜索" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%90%9c%e7%b4%a2" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%90%9c%e7%b4%a2" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;h3 class="relative group">1. 二分查找
 &lt;div id="1-二分查找" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-%e4%ba%8c%e5%88%86%e6%9f%a5%e6%89%be" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-%e4%ba%8c%e5%88%86%e6%9f%a5%e6%89%be" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="nf">binary_search&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">vector&lt;/span>&lt;span class="o">&amp;lt;&lt;/span>&lt;span class="kt">int&lt;/span>&lt;span class="o">&amp;gt;&amp;amp;&lt;/span> &lt;span class="n">nums&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">target&lt;/span>&lt;span class="p">)&lt;/span>
@@ -209,7 +218,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="2-双指针" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-%e5%8f%8c%e6%8c%87%e9%92%88" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-%e5%8f%8c%e6%8c%87%e9%92%88" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">// 时间复杂度：O(n)
@@ -231,14 +240,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="排序" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%8e%92%e5%ba%8f" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%8e%92%e5%ba%8f" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;h3 class="relative group">1. 排序-选择排序
 &lt;div id="1-排序-选择排序" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-%e6%8e%92%e5%ba%8f-%e9%80%89%e6%8b%a9%e6%8e%92%e5%ba%8f" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-%e6%8e%92%e5%ba%8f-%e9%80%89%e6%8b%a9%e6%8e%92%e5%ba%8f" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">void&lt;/span> &lt;span class="nf">selectionSort&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">vector&lt;/span>&lt;span class="o">&amp;lt;&lt;/span>&lt;span class="kt">int&lt;/span>&lt;span class="o">&amp;gt;&amp;amp;&lt;/span> &lt;span class="n">nums&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
@@ -258,7 +267,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="2-排序-冒泡排序" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-%e6%8e%92%e5%ba%8f-%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-%e6%8e%92%e5%ba%8f-%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">void&lt;/span> &lt;span class="nf">bubbleSort&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">vector&lt;/span>&lt;span class="o">&amp;lt;&lt;/span>&lt;span class="kt">int&lt;/span>&lt;span class="o">&amp;gt;&amp;amp;&lt;/span> &lt;span class="n">nums&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
@@ -292,7 +301,7 @@ src="https://flesymeb.github.io/docs/algorithm/stl/image/index/1747656900325.png
 &lt;div id="algorithm-头文件" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#algorithm-%e5%a4%b4%e6%96%87%e4%bb%b6" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#algorithm-%e5%a4%b4%e6%96%87%e4%bb%b6" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>C++的算法头文件中有很多实用的函数&lt;/p>
@@ -300,7 +309,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="排序" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%8e%92%e5%ba%8f" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%8e%92%e5%ba%8f" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;p>&lt;code>sort()&lt;/code>：对容器中的元素进行排序。依次传入三个参数，要排序区间的起点，要排序区间的终点+1，比较函数。比较函数可以不填，则默认为从小到大排序。
@@ -308,7 +317,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style = "text-align: center;">
@@ -322,14 +331,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>&lt;p style = "text-align:center">三月的烟雨 飘摇的南方&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-03-01/featured.jpg"/></item><item><title>致自己的20岁</title><link>https://flesymeb.github.io/posts/daily/2025-02-25/</link><pubDate>Tue, 25 Feb 2025 00:36:48 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2025-02-25/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style = "text-align: center;">
@@ -340,23 +349,25 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>&lt;text>Traveling Light&lt;/text>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-02-25/featured.jpg"/></item><item><title>使用 LLaMAFactory 实现大模型微调</title><link>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</link><pubDate>Wed, 19 Feb 2025 19:14:32 +0800</pubDate><guid>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</guid><description>&lt;blockquote>
+&lt;p>&lt;text>Traveling Light&lt;/text>&lt;/p>
+&lt;blockquote>
+&lt;p>第一次听这首歌是在 2019 年 3 月，它从高一陪伴我到现在，每次放假或出行都会专门找到这首歌，看着窗外的风景发呆。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2025-02-25/featured.jpg"/></item><item><title>使用 LLaMAFactory 实现大模型微调</title><link>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</link><pubDate>Wed, 19 Feb 2025 19:14:32 +0800</pubDate><guid>https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/</guid><description>&lt;blockquote>
 &lt;p>本文主要介绍如何使用 LLaMAFactory 实现大模型微调，基于 Qwen2.5-7B-Instruct 模型进行 LoRA 微调&lt;/p>&lt;/blockquote>
 &lt;h1 class="relative group">基础概念
 &lt;div id="基础概念" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%9f%ba%e7%a1%80%e6%a6%82%e5%bf%b5" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%9f%ba%e7%a1%80%e6%a6%82%e5%bf%b5" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;h2 class="relative group">大模型训练流程
 &lt;div id="大模型训练流程" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%ae%ad%e7%bb%83%e6%b5%81%e7%a8%8b" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%ae%ad%e7%bb%83%e6%b5%81%e7%a8%8b" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>&lt;strong>ChatGPT 的训练流程&lt;/strong>
@@ -381,7 +392,7 @@ src="https://flesymeb.github.io/docs/study/20250219_qwen_fine_tune/imgs/01.png">
 &lt;div id="2024-操作系统期末复习" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e6%9c%9f%e6%9c%ab%e5%a4%8d%e4%b9%a0" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e6%9c%9f%e6%9c%ab%e5%a4%8d%e4%b9%a0" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;blockquote>
@@ -392,18 +403,28 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="本文框架" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>
 &lt;figure>
 &lt;img class="my-0 rounded-md" loading="lazy" alt="1735405694119" src="image/2024%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB/1735405694119.png">
 &lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/os/featured.jpg"/></item><item><title>2024 计算机系统结构复习</title><link>https://flesymeb.github.io/docs/systemstructure/</link><pubDate>Wed, 25 Dec 2024 14:23:00 +0800</pubDate><guid>https://flesymeb.github.io/docs/systemstructure/</guid><description>&lt;h1 class="relative group">2024 计算机系统结构复习
+&lt;/p>
+&lt;hr>
+&lt;h2 class="relative group">外设管理
+&lt;div id="外设管理" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%a4%96%e8%ae%be%e7%ae%a1%e7%90%86" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;blockquote>
+&lt;p>外设管理，文件管理 Unix V6++源代码不用看。操作流程方面，特别细节的地方不用看。比如，要掌握核心数据结构，磁盘高速缓存池。借助缓存的读写操作，缓存块互斥使用的过程，缓存队列的变化。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/os/featured.jpg"/></item><item><title>2024 计算机系统结构复习</title><link>https://flesymeb.github.io/docs/systemstructure/</link><pubDate>Wed, 25 Dec 2024 14:23:00 +0800</pubDate><guid>https://flesymeb.github.io/docs/systemstructure/</guid><description>&lt;h1 class="relative group">2024 计算机系统结构复习
 &lt;div id="2024-计算机系统结构复习" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%b3%bb%e7%bb%9f%e7%bb%93%e6%9e%84%e5%a4%8d%e4%b9%a0" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%b3%bb%e7%bb%9f%e7%bb%93%e6%9e%84%e5%a4%8d%e4%b9%a0" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;blockquote>
@@ -414,7 +435,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="本文框架" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>&lt;strong>本文按照 2024 计算机系统结构考纲整理。&lt;/strong>
@@ -425,7 +446,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="2024-软件工程复习" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e5%a4%8d%e4%b9%a0" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e5%a4%8d%e4%b9%a0" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;blockquote>
@@ -436,18 +457,37 @@ Hyoung Yan&lt;/p>&lt;/blockquote>
 &lt;div id="本文框架" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>
 &lt;figure>
 &lt;img class="my-0 rounded-md" loading="lazy" alt="本文框架" src="2024%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%A1%86%E6%9E%B6.png">
 &lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/softwareengineering/featured.jpeg"/></item><item><title>2024 12 04</title><link>https://flesymeb.github.io/posts/daily/2024-12-04/</link><pubDate>Wed, 04 Dec 2024 00:00:00 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-12-04/</guid><description>&lt;h2 class="relative group">ONE
+&lt;/p>
+&lt;hr>
+&lt;h2 class="relative group">Chapter 1: 软件工程概述
+&lt;div id="chapter-1-软件工程概述" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#chapter-1-%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e6%a6%82%e8%bf%b0" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">背景知识
+&lt;div id="背景知识" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%83%8c%e6%99%af%e7%9f%a5%e8%af%86" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>软件是计算机系统中与硬件相互依存的另一部分，它是包括程序、数据及其相关文档组成的完整集合。
+软件是一种逻辑实体，具有抽象性。软件具有 &lt;strong>复杂度、一致性、可变性和无不可见性&lt;/strong> 等固有的内在特性，这是造成软件开发困难的根本原因。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/softwareengineering/featured.jpeg"/></item><item><title>2024 12 04</title><link>https://flesymeb.github.io/posts/daily/2024-12-04/</link><pubDate>Wed, 04 Dec 2024 00:00:00 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-12-04/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style = "text-align: center;">
@@ -458,14 +498,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>读王老师书有感，摘抄一段：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-12-04/featured.jpg"/></item><item><title>2024 11 07</title><link>https://flesymeb.github.io/posts/daily/2024-11-07/</link><pubDate>Sun, 17 Nov 2024 01:42:54 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-11-07/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -476,14 +516,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>在上海第二次看到了星星，上一次在见到星星还是大一国庆去崇明岛玩。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-11-07/featured.jpg"/></item><item><title>Tongji-DORM-WIFI自动登录</title><link>https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/</link><pubDate>Wed, 30 Oct 2024 01:52:50 +0800</pubDate><guid>https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/</guid><description>&lt;h2 class="relative group">前言
 &lt;div id="前言" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;blockquote>
@@ -492,38 +532,67 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="介绍" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;blockquote>
 &lt;p>Follow,下一代的聚合信息浏览器&lt;/p>&lt;/blockquote>
-&lt;p>Follow 为用户提供了一个全新的信息聚合平台，但远不止于此。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/follow_the_rss_reader/featured.png"/></item><item><title>【书评】变形记</title><link>https://flesymeb.github.io/posts/books/04_%E5%8F%98%E5%BD%A2%E8%AE%B0/</link><pubDate>Sat, 26 Oct 2024 13:05:43 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/04_%E5%8F%98%E5%BD%A2%E8%AE%B0/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
+&lt;p>Follow 为用户提供了一个全新的信息聚合平台，但远不止于此。&lt;/p>
+&lt;h3 class="relative group">什么是 RSS？
+&lt;div id="什么是-rss" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%80%e4%b9%88%e6%98%af-rss" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>RSS（Really Simple Syndication） 简单来说就是把信息源聚合在一起，在一个地方接受所有信息源的更新信息、摘要甚至全文，对于多信息源的场景非常必要。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/follow_the_rss_reader/featured.png"/></item><item><title>【书评】变形记</title><link>https://flesymeb.github.io/posts/books/04_%E5%8F%98%E5%BD%A2%E8%AE%B0/</link><pubDate>Sat, 26 Oct 2024 13:05:43 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/04_%E5%8F%98%E5%BD%A2%E8%AE%B0/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
 &lt;div id="one-阅读记录" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>    变形记是卡夫卡的代表作之一，本作很短，后半部分是作者的小传。读卡夫卡的《变形记》有一种被撕裂、吞噬的感觉，作者的笔触十分悲凉，让人看到人物自我救赎却又陷入毁灭的无望追寻。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/04_%E5%8F%98%E5%BD%A2%E8%AE%B0/featured.jpg"/></item><item><title>【书评】组织部来了个年轻人</title><link>https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/</link><pubDate>Sat, 19 Oct 2024 15:19:06 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
 &lt;div id="one-阅读记录" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;blockquote>
 &lt;p>三月，天空中纷洒着似雨似雪&lt;/p>&lt;/blockquote>
-&lt;p>情绪反扑，唯有读书可以让我静下心来，这两天也真是疯魔了，一天一本。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/featured.jpg"/></item><item><title>【书评】人生</title><link>https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/</link><pubDate>Fri, 18 Oct 2024 15:23:39 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/</guid><description>&lt;p>路遥刻画的人物，里面最重要的就是成长性，从一个敏感自卑但又踌躇满志的少年，长成一个饱经风雨坎坷但毫不气馁的青年，酸甜苦辣的打磨，艰难却又必须的蜕变，这就是人生。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/featured.png"/></item><item><title>【书评】蛤蟆先生去看心理医生</title><link>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</link><pubDate>Thu, 17 Oct 2024 19:21:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
+&lt;p>情绪反扑，唯有读书可以让我静下心来，这两天也真是疯魔了，一天一本。&lt;/p>
+&lt;p>    花了两个小时读了王蒙的《组织部来了个年轻人》，乍一听书名想到了小王 hhh，能文能武，长相十分英俊。
+    本书写于 1956 年，恰值“双百方针”实行时期，毛主席曾 5 次评论这本小说，认为是一本反对官僚主义的小说，此书在当时引起不小的反响，众人就“北京是否有官僚主义”等问题展开争论。
+    次年王蒙被划为右派，在新疆生活了十六年之久，然而所谓“祸兮福之所倚，福兮祸之所伏”，作者也因此躲过了十年浩劫，并于 1979 年得以平反，此后还出任了文化部部长等职务，看别人的人生总是很有趣，短短几句话，有多少故事在其中。
+&lt;figure>
+&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="组织部来了个年轻人"
+srcset="
+/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/pic1_hu_a406ca7c509dbe9b.jpg 330w,
+/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/pic1_hu_8c9868f39738e948.jpg 660w,
+/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/pic1_hu_bd2b34882b2336ec.jpg 1280w
+"
+data-zoom-src="https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/pic1.jpg"
+src="https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/pic1.jpg">
+&lt;/figure>
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/03_%E7%BB%84%E7%BB%87%E9%83%A8%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%B9%B4%E8%BD%BB%E4%BA%BA/featured.jpg"/></item><item><title>【书评】人生</title><link>https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/</link><pubDate>Fri, 18 Oct 2024 15:23:39 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/</guid><description>&lt;p>路遥刻画的人物，里面最重要的就是成长性，从一个敏感自卑但又踌躇满志的少年，长成一个饱经风雨坎坷但毫不气馁的青年，酸甜苦辣的打磨，艰难却又必须的蜕变，这就是人生。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/02_%E4%BA%BA%E7%94%9F/featured.png"/></item><item><title>【书评】蛤蟆先生去看心理医生</title><link>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</link><pubDate>Thu, 17 Oct 2024 19:21:55 +0800</pubDate><guid>https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/</guid><description>&lt;h2 class="relative group">ONE 阅读记录
 &lt;div id="one-阅读记录" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one-%e9%98%85%e8%af%bb%e8%ae%b0%e5%bd%95" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;blockquote>
 &lt;p>如果你抑郁，是因为你活在过去；
 如果你焦虑，是因为你活在未来；
-如果你内心平静，说明你活在当下。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/featured.jpg"/></item><item><title>2024 10 16</title><link>https://flesymeb.github.io/posts/daily/2024-10-16/</link><pubDate>Wed, 16 Oct 2024 22:26:08 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-10-16/</guid><description>&lt;blockquote>
+如果你内心平静，说明你活在当下。&lt;/p>&lt;/blockquote>
+&lt;p>    用时五天读完了这本书《蛤蟆先生去看心理医生》，曾经听书名以为是童书，其实是一本很有趣且有深度的心理疗愈读物。
+    曾经以为这种心理/哲学相关的书会很枯燥，读不下去，其实还是因为没有用心去读去尝试。在读书的过程中，收获了很多有趣的知识，比方人生的三大状态：儿童自我状态、父母自我状态、成人自我状态，成年人的行为习惯都是从童年学来的，也会潜移默化地影响人的一生，原谅过去实际也是学会自洽。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/books/01_%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F/featured.jpg"/></item><item><title>2024 10 16</title><link>https://flesymeb.github.io/posts/daily/2024-10-16/</link><pubDate>Wed, 16 Oct 2024 22:26:08 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-10-16/</guid><description>&lt;blockquote>
 &lt;p>1&lt;/p>&lt;/blockquote>
 &lt;p>夏天的隅落里，我想起远方的不幸&lt;/p>
 &lt;p>作为背景的光幕突然被影子犁开&lt;/p>
@@ -537,7 +606,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -547,14 +616,16 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>&lt;text>Love Is Over&lt;/text>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-10-13/featured.jpg"/></item><item><title>我请问24H2，我的光标在哪里？</title><link>https://flesymeb.github.io/docs/fixbugs/24h2_where_is_my_cusor/</link><pubDate>Tue, 08 Oct 2024 15:08:57 +0800</pubDate><guid>https://flesymeb.github.io/docs/fixbugs/24h2_where_is_my_cusor/</guid><description>&lt;h2 class="relative group">问题描述
+&lt;p>&lt;text>Love Is Over&lt;/text>&lt;/p>
+&lt;blockquote>
+&lt;p>这首歌有很多版本，但还是觉得这一首最好听，我们要快快乐乐的，我们不应该停留在回忆，停留在过去，而是应该多看看远方，多看看未来，多看看自己。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/posts/daily/2024-10-13/featured.jpg"/></item><item><title>我请问24H2，我的光标在哪里？</title><link>https://flesymeb.github.io/docs/fixbugs/24h2_where_is_my_cusor/</link><pubDate>Tue, 08 Oct 2024 15:08:57 +0800</pubDate><guid>https://flesymeb.github.io/docs/fixbugs/24h2_where_is_my_cusor/</guid><description>&lt;h2 class="relative group">问题描述
 &lt;div id="问题描述" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%97%ae%e9%a2%98%e6%8f%8f%e8%bf%b0" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%97%ae%e9%a2%98%e6%8f%8f%e8%bf%b0" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>本着尝鲜的目的，更新了 Windows 11 24H2 版本，24H2 版本添加了些新功能，比方 &lt;code>sudo&lt;/code>命令，但是出乎意料又合理之中的是遇到了一些小问题，比方当鼠标聚焦在文本输入框时，光标会消失，鼠标正常移动。
@@ -567,15 +638,43 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="问题描述" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%97%ae%e9%a2%98%e6%8f%8f%e8%bf%b0" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%97%ae%e9%a2%98%e6%8f%8f%e8%bf%b0" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>运行 jar 包时出错：在命令行中可以运行 jar，但是双击 jar 文件无反应或者闪退
-cmd 命令&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/fixbugs/run_the_jar/featured.png"/></item><item><title>2024 10 3</title><link>https://flesymeb.github.io/posts/daily/2024-10-3/</link><pubDate>Thu, 03 Oct 2024 23:07:19 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-10-3/</guid><description>&lt;h2 class="relative group">ONE
+cmd 命令&lt;/p>
+&lt;h2 class="relative group">解决方案
+&lt;div id="解决方案" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>首先确定 Java 运行环境已经安装好，包括 JDK 或 JRE。可在命令行输入 &lt;code>java -version&lt;/code>查看是否安装成功。&lt;/li>
+&lt;li>如果在命令行中输入 &lt;code>java -jar xx.jar&lt;/code>可以运行，则说明是打开方式设置的问题。可右键 jar 文件，选择“打开方式”，选择“Java(TM) Platform SE binary”或浏览找到 &lt;code>javaw.exe&lt;/code>。&lt;/li>
+&lt;li>如果双击仍然无反应或闪退，则可 Win+R，键入 &lt;code>regedit&lt;/code>代开注册表编辑器，找到 &lt;code>HKEY_CLASSES_ROOT\Applications\javaw.exe\shell\open\command&lt;/code>，检查值是否少了 &lt;code>-jar&lt;/code>参数（注意无引号）,修改后应为 &lt;code>&amp;quot;C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe&amp;quot; -jar &amp;quot;%1&amp;quot;&lt;/code>，保存退出即可解决问题。
+&lt;figure>
+&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="regedit"
+srcset="
+/docs/fixbugs/run_the_jar/image_hu_5d7bc812b96ea159.png 330w,
+/docs/fixbugs/run_the_jar/image_hu_f79be15dfc2eecae.png 660w,
+/docs/fixbugs/run_the_jar/image_hu_9de54614c561866d.png 1280w
+"
+data-zoom-src="https://flesymeb.github.io/docs/fixbugs/run_the_jar/image.png"
+src="https://flesymeb.github.io/docs/fixbugs/run_the_jar/image.png">
+&lt;/figure>
+&lt;/li>
+&lt;/ol></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/fixbugs/run_the_jar/featured.png"/></item><item><title>2024 10 3</title><link>https://flesymeb.github.io/posts/daily/2024-10-3/</link><pubDate>Thu, 03 Oct 2024 23:07:19 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-10-3/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -589,7 +688,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>A part of
@@ -607,7 +706,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="介绍" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;ul>
@@ -636,14 +735,14 @@ src="https://flesymeb.github.io/docs/hello_algo/demo.gif">
 &lt;div id="介绍" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8b%e7%bb%8d" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
 &lt;p>这是一款全平台通用的换源工具/框架，目标支持 Linux, Windows (MSYS2, Cygwin), macOS, BSD 等尽可能多的操作系统环境，龙芯、飞腾、RISC-V 等尽可能多的 CPU。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/change-the-source/featured.png"/></item><item><title>2024 09 28</title><link>https://flesymeb.github.io/posts/daily/2024-9-28/</link><pubDate>Sat, 28 Sep 2024 00:30:57 +0800</pubDate><guid>https://flesymeb.github.io/posts/daily/2024-9-28/</guid><description>&lt;h2 class="relative group">ONE
 &lt;div id="one" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#one" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;div style="text-align: center;">
@@ -654,7 +753,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="two" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#two" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;center>

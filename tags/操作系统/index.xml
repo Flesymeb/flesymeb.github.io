@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>操作系统 on Hyoung Blog</title><link>https://flesymeb.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link><description>Recent content in 操作系统 on Hyoung Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sun, 29 Dec 2024 14:03:36 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 操作系统期末复习</title><link>https://flesymeb.github.io/docs/os/</link><pubDate>Sun, 29 Dec 2024 14:03:36 +0800</pubDate><guid>https://flesymeb.github.io/docs/os/</guid><description>&lt;h1 class="relative group">2024 操作系统期末复习
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>操作系统 on Yan's Blog</title><link>https://flesymeb.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link><description>Recent content in 操作系统 on Yan's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sun, 29 Dec 2024 14:03:36 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 操作系统期末复习</title><link>https://flesymeb.github.io/docs/os/</link><pubDate>Sun, 29 Dec 2024 14:03:36 +0800</pubDate><guid>https://flesymeb.github.io/docs/os/</guid><description>&lt;h1 class="relative group">2024 操作系统期末复习
 &lt;div id="2024-操作系统期末复习" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e6%9c%9f%e6%9c%ab%e5%a4%8d%e4%b9%a0" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2024-%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e6%9c%9f%e6%9c%ab%e5%a4%8d%e4%b9%a0" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;blockquote>
@@ -13,11 +13,21 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;div id="本文框架" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="锚点">#&lt;/a>
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%ac%e6%96%87%e6%a1%86%e6%9e%b6" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
 &lt;p>
 &lt;figure>
 &lt;img class="my-0 rounded-md" loading="lazy" alt="1735405694119" src="image/2024%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB/1735405694119.png">
 &lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/os/featured.jpg"/></item></channel></rss>
+&lt;/p>
+&lt;hr>
+&lt;h2 class="relative group">外设管理
+&lt;div id="外设管理" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%a4%96%e8%ae%be%e7%ae%a1%e7%90%86" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;blockquote>
+&lt;p>外设管理，文件管理 Unix V6++源代码不用看。操作流程方面，特别细节的地方不用看。比如，要掌握核心数据结构，磁盘高速缓存池。借助缓存的读写操作，缓存块互斥使用的过程，缓存队列的变化。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/os/featured.jpg"/></item></channel></rss>
