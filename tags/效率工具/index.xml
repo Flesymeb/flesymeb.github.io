@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>效率工具 on Yan's Blog</title><link>https://flesymeb.github.io/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</link><description>Recent content in 效率工具 on Yan's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Sun, 29 Mar 2026 17:03:57 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>解放双手👐：用 Telegram 远程指挥 Claude Code 干活</title><link>https://flesymeb.github.io/docs/claude-telegram/</link><pubDate>Sun, 29 Mar 2026 17:03:57 +0800</pubDate><guid>https://flesymeb.github.io/docs/claude-telegram/</guid><description>&lt;h1 class="relative group">解放双手👐：用 Telegram 远程指挥 Claude Code 干活
+&lt;div id="解放双手用-telegram-远程指挥-claude-code-干活" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%a7%a3%e6%94%be%e5%8f%8c%e6%89%8b%e7%94%a8-telegram-%e8%bf%9c%e7%a8%8b%e6%8c%87%e6%8c%a5-claude-code-%e5%b9%b2%e6%b4%bb" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;hr>
+&lt;blockquote>
+&lt;p>大家一定有过这样的经历：训练一个模型，提交任务后就只能守在终端前，生怕错过任何进展。要么就是放下手机去干别的，结果错过了重要的更新。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/claude-telegram/featured.png"/></item></channel></rss>
