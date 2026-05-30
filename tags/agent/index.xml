@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agent on Yan's Blog</title><link>https://flesymeb.github.io/tags/agent/</link><description>Recent content in Agent on Yan's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Hyoung Yan</copyright><lastBuildDate>Mon, 30 Mar 2026 22:51:42 +0800</lastBuildDate><atom:link href="https://flesymeb.github.io/tags/agent/index.xml" rel="self" type="application/rss+xml"/><item><title>给 Agent 设计 CLI 的 N 条原则</title><link>https://flesymeb.github.io/docs/cli_rules_for_agents/</link><pubDate>Mon, 30 Mar 2026 22:51:42 +0800</pubDate><guid>https://flesymeb.github.io/docs/cli_rules_for_agents/</guid><description>&lt;h2 class="relative group">0 前言
+&lt;div id="0-前言" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#0-%e5%89%8d%e8%a8%80" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>最近做了一个 Agent 项目，我越来越觉得：命令行形式天然适合 Agent 交互与处理，恰如把一个二维的 GUI 应用压扁成一维的命令行。&lt;/p>
+&lt;p>这当然也是最近很热门的方向。像 HKU 黄超老师做的 CLI-Anything，就是一个很好的例子。仔细想来，很多爆发性的热点，往往底层想法都很简单。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://flesymeb.github.io/docs/cli_rules_for_agents/featured.jpg"/></item></channel></rss>
